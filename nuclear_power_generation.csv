@@ -1,0 +1,2001 @@
+Plant_Name,Location,Operator,Capacity_MW,Commission_Date,Nuclear_Type,Reactor_Type,Fuel_Type,Annual_Output_GWh,Status
+Gray-Benitez,"465 Cook Passage Apt. 924
+Evansville, MN 47385","Garrett, Turner and Lutz",921,2001-07-24,Boiling Water Reactor,Heavy Water Reactor,Uranium,2323,Operational
+"Wright, Harrell and Barry","29142 Brendan Village Apt. 021
+Reedmouth, AS 46189",Reid and Sons,986,2010-12-21,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4090,Operational
+"Miller, Chandler and Morris","Unit 6810 Box 6182
+DPO AA 99884",Alvarado-Lawson,1614,2017-12-20,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1511,Operational
+"Mcpherson, Jenkins and Harris","PSC 4293, Box 2928
+APO AP 53983",Singleton-Cross,878,2020-12-07,Fast Breeder Reactor,Light Water Reactor,Uranium,4656,Decommissioned
+"Gomez, Stark and Bush","990 Darren Isle
+West Alexa, NV 12333",White-King,848,2013-04-02,Pressurized Water Reactor,Light Water Reactor,Uranium,1094,Decommissioned
+Taylor-Jennings,"519 Mark Ridges
+West Cliffordfurt, MH 07107",Sims-Kim,1901,2002-10-18,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4543,Decommissioned
+Warner-Jones,"USNS Obrien
+FPO AE 08977",West-Gill,1572,2022-05-22,Fast Breeder Reactor,Heavy Water Reactor,Uranium,2396,Decommissioned
+Valentine Inc,"748 Weeks Cove
+South Daniel, AK 44346",Gordon and Sons,1840,2012-12-16,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3939,Under Construction
+Brock-Beck,"3008 Mcknight Gateway Apt. 588
+Lake Chad, IA 70591",Graham Group,1987,2000-06-14,Boiling Water Reactor,Light Water Reactor,Uranium,2989,Operational
+"Rosales, Rodgers and Arnold","USNS Dennis
+FPO AA 81228",Ruiz-Davidson,815,2021-10-26,Pressurized Water Reactor,Light Water Reactor,Plutonium,3412,Under Construction
+Zhang Group,"USS Wong
+FPO AE 12516",Beck-Yates,1350,2008-10-19,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2684,Decommissioned
+Scott PLC,"Unit 6051 Box 9867
+DPO AA 07046",Santos Inc,979,2019-04-03,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3552,Under Construction
+"Martinez, Sullivan and Meyer","076 Maria Divide Suite 447
+Lake Noahland, IA 04986",Blankenship-Buchanan,1341,2006-09-22,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3780,Decommissioned
+Miller LLC,"7244 Poole Underpass
+Kimberlytown, PW 56498",Garza PLC,872,1995-02-16,Pressurized Water Reactor,Light Water Reactor,Thorium,3992,Operational
+Johnson-Barton,"USCGC Cole
+FPO AA 06239",Fuentes PLC,556,2022-09-28,Pressurized Water Reactor,Light Water Reactor,Thorium,3868,Under Construction
+Carson LLC,"47510 Wilcox Mountain
+Juliefort, MD 53546",Young LLC,1570,2019-03-18,Pressurized Water Reactor,Light Water Reactor,Plutonium,2028,Decommissioned
+"Wise, Rodriguez and Miller","723 Shannon Port Suite 423
+South Dianeton, WV 11199","Haynes, Marshall and Dunlap",1159,1996-06-10,Boiling Water Reactor,Light Water Reactor,Plutonium,2450,Operational
+Herrera LLC,"282 Brenda Ville
+New Phillipmouth, CA 95618",Macias Inc,1595,2004-05-24,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2651,Decommissioned
+Burgess Inc,"2343 Robles Lodge Suite 924
+Jenniferside, FL 11276",Hernandez LLC,555,2006-11-30,Fast Breeder Reactor,Light Water Reactor,Plutonium,1337,Under Construction
+"Fuentes, Brown and Miller","880 Tracy Ramp Suite 129
+Port Tracyland, GA 48227","Decker, Hamilton and Jimenez",1247,1994-08-16,Fast Breeder Reactor,Light Water Reactor,Uranium,3484,Decommissioned
+"Pugh, Bates and Snow","84708 Harris Harbor
+Morastad, NY 75840",Perkins-Stark,1881,2016-09-18,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3764,Decommissioned
+"Smith, Romero and Griffin","001 Sawyer Plains
+Shaunville, AS 59517",Guerrero-Davis,1858,2017-06-27,Pressurized Water Reactor,Light Water Reactor,Plutonium,3210,Under Construction
+Walker Group,"200 Reyes Turnpike Suite 955
+Smithmouth, AL 83473",Serrano LLC,1800,2020-04-02,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1000,Decommissioned
+"Knight, Hill and Woods","2219 Tyler Circles
+New Samantha, WA 90469",Coleman Ltd,760,1996-06-20,Pressurized Water Reactor,Light Water Reactor,Uranium,4286,Under Construction
+"Patterson, Williamson and Park","213 Orozco Island
+North Maryville, OH 36267","Weber, Hart and Carter",1197,1995-11-03,Boiling Water Reactor,Heavy Water Reactor,Uranium,1768,Decommissioned
+Spence and Sons,"0588 Kevin Course
+Hillbury, NV 77301","Gill, Mcdonald and Hester",1974,2007-10-18,Boiling Water Reactor,Light Water Reactor,Uranium,4690,Operational
+Jimenez and Sons,"00930 Ana Island Apt. 283
+East Justin, AZ 87249",Barnett PLC,688,2001-11-19,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2992,Under Construction
+Ochoa-Roberts,"1601 Obrien Turnpike
+Lake Dominicstad, PW 55454",Chapman-Short,1584,2016-12-09,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1247,Decommissioned
+"Maddox, Kennedy and Park","862 Montgomery Walks Apt. 699
+Lake Jennifer, AK 77271",Coleman Group,1250,2005-01-19,Boiling Water Reactor,Light Water Reactor,Plutonium,1167,Under Construction
+Hull Inc,"4916 Johnston Squares
+Sanchezbury, GA 07211",Perry Inc,1591,2018-06-08,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2768,Decommissioned
+White Inc,"PSC 1625, Box 1816
+APO AP 81935","Smith, Nelson and Francis",1881,1998-05-01,Pressurized Water Reactor,Light Water Reactor,Uranium,2031,Operational
+Parker-Lara,"835 Diaz Isle Suite 681
+Joshuahaven, SD 98851","Moss, Howard and Johns",1410,2007-06-14,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1179,Under Construction
+Mercado Inc,"320 Dougherty Knolls
+Taraville, AK 89248",Guerrero LLC,1115,2021-09-03,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2341,Operational
+Cooper LLC,"22681 Garcia Viaduct Suite 060
+Michaelshire, MA 10124","Adams, Rhodes and Cisneros",1341,1998-10-21,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,2451,Under Construction
+Freeman-Little,"508 Erik Plaza
+Mirandashire, ND 57939",Lopez-Rojas,1257,2012-10-07,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1372,Operational
+Hughes-Tran,"76573 Thompson Mews Apt. 760
+Jasonport, IA 95097",Sanders-Wright,1999,2011-06-16,Fast Breeder Reactor,Light Water Reactor,Thorium,3562,Operational
+"Mills, Summers and Mcgee","5094 Blackburn Way Suite 991
+Caldwellburgh, OH 48970","Smith, French and Johnson",1218,2020-03-03,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2601,Decommissioned
+Rich PLC,"198 Michael Crescent
+Kimville, AS 72565","Mitchell, Rogers and Bean",1582,2008-03-12,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3814,Under Construction
+Fischer-Duncan,"47552 Michael Field Apt. 719
+Larryton, AL 47729",Brooks PLC,916,1998-12-31,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2430,Under Construction
+"Brown, Mathis and Young","USNS Gardner
+FPO AE 93507",Rios-Simon,1778,2015-09-24,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4554,Decommissioned
+Singleton-Warren,"1329 Meyers Ports Suite 341
+South Keithburgh, GU 51957",Bean-Moore,1481,2004-01-30,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1665,Under Construction
+"Anderson, Dalton and Bell","76710 Charles Forges
+Marissaborough, PR 17107",Anderson Group,534,2019-02-03,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3472,Under Construction
+Cook-Smith,"398 Obrien Mews Apt. 936
+Ryanmouth, FM 53889",Hale Inc,1375,2005-09-25,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3844,Operational
+"Graham, Sullivan and Huffman","180 Amy Club Suite 597
+Lake Jacob, OH 83003","Gonzalez, Miller and Ruiz",808,2015-11-09,Boiling Water Reactor,Heavy Water Reactor,Uranium,4466,Decommissioned
+Smith PLC,"87793 Burton Run Suite 852
+Franklinshire, MT 57391",Mata-Cox,740,2023-01-25,Boiling Water Reactor,Heavy Water Reactor,Uranium,4371,Decommissioned
+"Williams, Washington and Anderson","394 Nicholas Cliffs Suite 413
+North Andrea, MS 86868",Ward-Stephens,657,2012-10-15,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4600,Decommissioned
+Griffin-Lee,"738 Campbell Street
+North Jerry, FL 11065",Thomas and Sons,1704,2017-08-16,Boiling Water Reactor,Heavy Water Reactor,Thorium,3755,Decommissioned
+"Jennings, Johnson and Clark","146 Barnett Drive
+Gonzalesstad, MA 06193","Hunter, Vasquez and Simon",1252,1994-05-01,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2668,Decommissioned
+Sims-Stuart,"705 Fox Wells Suite 108
+East Loriton, MT 38590",Smith Ltd,1108,2001-09-12,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3226,Operational
+"Mclean, Ward and Oliver","9338 Thomas Field
+Eduardoland, RI 81514",Lynch PLC,990,2021-03-03,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4716,Under Construction
+Lewis-Mooney,"91790 Pope Shore
+New Josephchester, MN 28284",Alvarez LLC,967,2001-09-28,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3411,Decommissioned
+"Hayes, Young and Bennett","2020 Brown Ridge Apt. 969
+South Pamela, GA 02706",Shea-Powell,891,2002-06-17,Fast Breeder Reactor,Light Water Reactor,Thorium,4144,Decommissioned
+Hughes-Clark,"87104 Joshua Shoals Apt. 628
+Michaelside, AZ 93287",Patrick LLC,1836,1997-03-10,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4689,Under Construction
+Mcintosh Inc,"3958 Smith Union
+Pereztown, MS 10671",Kim PLC,1328,2018-11-12,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,3913,Decommissioned
+Lyons Group,"21776 Kara Ports Apt. 112
+Robertstad, PA 62227",Morrison Group,1386,2016-10-20,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4292,Under Construction
+Soto Ltd,"062 Debbie Via
+West Robinbury, IA 41051",Weaver-Perez,1618,2022-08-09,Pressurized Water Reactor,Light Water Reactor,Plutonium,3054,Under Construction
+"Stark, Lee and Velez","51815 Williams Club Apt. 890
+Davisview, GU 15654",Morales-Cook,1300,2013-12-08,Boiling Water Reactor,Light Water Reactor,Plutonium,3508,Under Construction
+"Black, Bradley and Kelly","9390 Brooks Camp Apt. 999
+Lawrencechester, KS 51643",Scott and Sons,839,1997-07-27,Boiling Water Reactor,Light Water Reactor,Plutonium,1666,Under Construction
+"James, Wu and Malone","86380 Jackson Spurs Suite 727
+East Scottburgh, WI 23592",Stevens LLC,537,2016-03-09,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1312,Under Construction
+Hardin-Jones,"542 Ashley River Apt. 567
+Tanyaview, TN 86878",Harmon Inc,1419,2003-07-09,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3779,Operational
+Reilly-Powers,"4734 Jacqueline Brook Apt. 996
+South Jessicaberg, FL 23951","Hays, Mack and Dixon",1019,2000-12-08,Boiling Water Reactor,Heavy Water Reactor,Uranium,2630,Operational
+"Morris, Nelson and Rodriguez","857 Sandra Shore
+Amandaside, KS 97051",Porter and Sons,1683,2011-04-11,Boiling Water Reactor,Light Water Reactor,Thorium,4869,Under Construction
+"Gutierrez, Vang and Marshall","536 Morgan Dale
+Larsenstad, WI 65037",Myers Inc,1297,2001-01-30,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3294,Operational
+"Ramirez, Hernandez and Gordon","766 Vincent Gateway
+South Steven, IA 13760",Watson-Glover,511,1995-09-16,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1075,Under Construction
+"Swanson, Ford and Mcdonald","3735 Blair Ville Apt. 163
+Lake Bianca, WI 43415",Nunez and Sons,1805,2016-02-05,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1629,Decommissioned
+Thomas-Hanson,"99302 Joshua Ports
+West Mary, NE 66861","Cline, Johnson and Hayes",805,2015-12-22,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1697,Operational
+Webb and Sons,"926 Welch Stream
+Cindytown, VI 73497",Baker Group,674,1997-02-04,Boiling Water Reactor,Light Water Reactor,Uranium,4561,Under Construction
+"Carey, Compton and Hernandez","721 David Crest
+Jacksonstad, NY 73422",Schwartz-Skinner,1970,2007-07-26,Fast Breeder Reactor,Light Water Reactor,Uranium,2155,Decommissioned
+"Lee, Castillo and Smith","5009 Larson Union
+Jenniferton, FM 67418","Dixon, Wilson and Thompson",1551,2007-03-24,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2578,Under Construction
+Cantu and Sons,"8657 John Trace Suite 994
+West Bobby, NE 61689",Hansen-Cooper,1691,2001-01-08,Pressurized Water Reactor,Light Water Reactor,Thorium,1195,Operational
+Obrien-Holloway,"085 Davis Via
+Anthonyborough, PW 88670",Bailey-Rice,1216,2011-06-13,Boiling Water Reactor,Heavy Water Reactor,Uranium,1317,Operational
+"Anderson, Mendoza and Alvarado","46056 Martin Road
+Jonesfort, MP 62786",Delacruz LLC,1402,1999-06-12,Boiling Water Reactor,Heavy Water Reactor,Thorium,1913,Under Construction
+Leonard LLC,"8558 Jacob Mall Suite 684
+East Christinamouth, RI 29241","Wiley, Velasquez and Brooks",1493,2011-09-13,Boiling Water Reactor,Light Water Reactor,Uranium,2945,Decommissioned
+Holt and Sons,"5716 Nicole Valleys
+Johnfort, AS 43373","Edwards, Robinson and Giles",1383,2021-02-24,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4677,Under Construction
+"Garcia, Gonzalez and Martinez","58971 Smith Vista
+North Melissamouth, VA 45719","Sullivan, Rush and Taylor",545,2020-07-08,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2489,Under Construction
+"Long, Evans and Park","4907 Debra Forks Suite 776
+Rodriguezchester, HI 47360","Nguyen, Patton and Allen",1247,2019-08-15,Boiling Water Reactor,Heavy Water Reactor,Uranium,3290,Under Construction
+Herrera-Williams,"5243 Braun Junction
+Davidmouth, VA 87848",Franklin Inc,1909,1995-10-06,Pressurized Water Reactor,Light Water Reactor,Plutonium,2077,Under Construction
+Bowman Ltd,"180 Amber Path Suite 513
+North Kellyview, WA 30978",Diaz-Barber,552,2006-12-27,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1874,Under Construction
+Green PLC,"3508 Green Harbor
+West Gregmouth, MD 06157",Valdez PLC,653,2008-03-26,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4422,Operational
+Ramos-Pierce,"983 Rodriguez Cove Apt. 983
+Benjaminside, SC 00634",Matthews-Sellers,1786,2008-11-12,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1422,Operational
+Richardson LLC,"9260 Wheeler Avenue
+Moyerside, OR 47258",Ayers Inc,1462,2008-09-18,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4046,Under Construction
+Soto PLC,"900 Mia Springs Suite 079
+Wonghaven, KY 01510","Mann, Hawkins and Jones",1513,2021-05-13,Pressurized Water Reactor,Light Water Reactor,Uranium,1433,Decommissioned
+Walton and Sons,"03130 Cynthia Rest
+West Emilyside, CT 36722",Price-Blake,1472,2021-01-21,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1847,Operational
+Welch and Sons,"323 Moore Dale
+Kingborough, DE 99053","Cook, Romero and Cross",1608,2004-11-27,Pressurized Water Reactor,Light Water Reactor,Plutonium,3265,Under Construction
+"Cox, Harrington and Joseph","916 Jason Mountains
+New Kenneth, WY 88346",Bell and Sons,1352,2004-09-28,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2389,Under Construction
+Jones Inc,"22807 Joshua Way Apt. 771
+Alvarezton, SD 62118",Smith Inc,1088,2009-09-13,Pressurized Water Reactor,Light Water Reactor,Uranium,3586,Decommissioned
+Schmidt-Johnson,"1455 Allison Brooks Apt. 791
+Lake Derekland, CA 15641",Fischer and Sons,1288,2003-11-27,Boiling Water Reactor,Heavy Water Reactor,Uranium,2553,Operational
+Zavala and Sons,"15517 Stephanie Expressway Suite 013
+Port Cindyberg, WY 14110","James, Guzman and Mendez",974,2005-05-12,Pressurized Water Reactor,Light Water Reactor,Plutonium,1697,Decommissioned
+Reed-Hudson,"2103 Smith Spurs Suite 389
+North Hollymouth, PW 98129",Villanueva LLC,696,1997-02-16,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2840,Under Construction
+"Guerrero, Chambers and Valenzuela","USNS Campbell
+FPO AA 93742","Marshall, Parker and Crawford",1315,2020-09-30,Fast Breeder Reactor,Light Water Reactor,Thorium,1474,Decommissioned
+"Warren, Parker and Taylor","Unit 2079 Box 3859
+DPO AE 10784",Sanchez-Wilson,1735,1995-04-22,Boiling Water Reactor,Light Water Reactor,Plutonium,1893,Under Construction
+Estes and Sons,"40756 Cody Avenue
+Jessicaside, IA 24647",Nash-Gomez,1430,2007-11-30,Boiling Water Reactor,Light Water Reactor,Plutonium,3775,Under Construction
+"Myers, Webster and Christian","PSC 0753, Box 4822
+APO AA 88025","Jones, Huber and Dunlap",725,2011-08-06,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1678,Decommissioned
+Brown LLC,"47872 Nelson Valleys
+New Benjaminberg, FL 15491",Collins-Hoffman,506,2010-06-10,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4608,Decommissioned
+Thomas-Turner,"USCGC Patel
+FPO AP 72024",Beck PLC,1861,2023-02-14,Boiling Water Reactor,Light Water Reactor,Thorium,4193,Operational
+"Harper, Ramirez and Flowers","093 Potter Brook
+Kramerhaven, MO 72019","Stafford, Harvey and Trujillo",1359,1999-08-27,Boiling Water Reactor,Light Water Reactor,Uranium,4767,Decommissioned
+Ramirez PLC,"02033 Krueger Mission Suite 699
+Traviston, CA 40210","Garcia, Allen and Andrews",1248,2020-07-08,Fast Breeder Reactor,Light Water Reactor,Thorium,2785,Operational
+"Smith, Aguilar and Cox","668 Diamond Fork
+Lake Danielshire, FL 18233","Norris, Salas and Smith",1618,2015-04-15,Pressurized Water Reactor,Light Water Reactor,Plutonium,4002,Operational
+"James, Carter and Martin","983 Laurie Ridges
+Lake Collinburgh, MS 33434",Clark-Little,673,2011-03-09,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4287,Decommissioned
+"Mathews, Williams and Andrews","5473 Janet Rapids
+Judyhaven, WA 63767","Wilson, Lopez and Young",1011,2023-01-28,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4550,Operational
+"Beasley, Nelson and Mcdonald","8085 Erica Glen Suite 138
+Ortizhaven, FL 15562",Sanchez and Sons,916,2010-02-10,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4868,Decommissioned
+Cummings-Stewart,"10248 Nathan Avenue
+Davidport, ME 56225",Prince and Sons,1892,2010-06-12,Pressurized Water Reactor,Light Water Reactor,Plutonium,4230,Decommissioned
+"Stokes, Miller and Ellison","1906 James Hill
+Mccarthyton, FM 96433",Miller-Williams,993,2009-01-25,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2946,Operational
+Lane Inc,"277 Andrew Via
+Josephberg, OR 76204",Arroyo-Scott,1773,2008-03-05,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2298,Under Construction
+"Wade, Lester and Henry","59228 Mccall Roads Suite 938
+Beckyside, MN 49604",Pierce Group,1945,2018-08-23,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4661,Operational
+Mills-Horn,"881 Crane Lake Suite 109
+Andreaburgh, RI 25253",Adkins Group,686,1999-04-17,Pressurized Water Reactor,Light Water Reactor,Uranium,1455,Operational
+Wood Group,"1122 Francisco Fall Suite 531
+Newmanside, PR 58662",Watson LLC,1184,1997-10-02,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2796,Under Construction
+"Martinez, Rose and Reyes","93588 Noble Road Suite 691
+Nancyhaven, NH 91889","Oconnell, Morrison and Kim",1827,2013-07-27,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3592,Operational
+Sutton-Hernandez,"52798 Olivia Shoals Suite 076
+Karenland, NH 58066",Ortiz-Lucas,1587,2014-08-24,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2852,Decommissioned
+Gibson-Wagner,"17275 Austin Port
+Jamesport, WY 67959",Turner and Sons,1741,2008-08-14,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3465,Decommissioned
+"Burton, Ingram and English","Unit 9964 Box 2231
+DPO AA 21734",Raymond and Sons,1615,2008-02-24,Pressurized Water Reactor,Light Water Reactor,Plutonium,3947,Under Construction
+"Brown, Harris and Garrison","3705 Steven Mission Suite 283
+Houstonberg, AS 75836","Gould, Weber and Hopkins",771,2021-06-30,Pressurized Water Reactor,Light Water Reactor,Uranium,2996,Under Construction
+"Brewer, Powell and Roberts","3258 Wong Road
+New Carrieport, TN 99786","Le, Medina and Lee",1818,2014-10-29,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1015,Under Construction
+Lin-Hancock,"2396 Davis Vista
+West Angieland, AR 83574","Townsend, Price and Fernandez",898,2008-12-27,Fast Breeder Reactor,Light Water Reactor,Uranium,3259,Decommissioned
+Foster-Johnson,"7558 Allison Drive
+New Amanda, NY 42371",Clark Group,1235,2016-04-23,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2052,Decommissioned
+"Williams, Smith and Davenport","240 Zachary Lodge Apt. 666
+Michaelstad, DC 28685",Ewing Ltd,966,1999-11-23,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3787,Decommissioned
+Hernandez-Guzman,"7470 Anna Viaduct Suite 278
+West Meghan, MT 83462","Stevens, Kelley and Gonzalez",641,2009-07-25,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1233,Operational
+Morgan PLC,"43163 Allen Dam
+Lorettaburgh, MT 68859",Shah Group,1739,2022-01-12,Boiling Water Reactor,Light Water Reactor,Plutonium,2554,Under Construction
+Scott-Vincent,"9973 William Place Suite 504
+Campbellmouth, VI 93644","Day, Garcia and Duncan",616,2000-11-05,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1100,Under Construction
+"Rivera, Davis and Bennett","8066 Laurie Stream Suite 886
+Tinatown, AK 42963",Owens-Harris,578,2018-03-27,Pressurized Water Reactor,Light Water Reactor,Uranium,2801,Operational
+Brown-Sharp,"Unit 9606 Box 6895
+DPO AP 76348",Johnson-White,1559,2003-02-09,Fast Breeder Reactor,Light Water Reactor,Plutonium,4719,Decommissioned
+Johnson-Atkinson,"070 Marissa Route
+Loganhaven, RI 59927","Lopez, Reed and Johnson",793,2021-02-18,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4198,Decommissioned
+Hamilton LLC,"4804 Cruz Common Apt. 958
+West Jeremiahfurt, AR 67264",Ward-Brooks,1504,2022-02-12,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4290,Decommissioned
+"Roberts, Contreras and Mcguire","92991 Cline Common Apt. 648
+Sarahland, ID 63005",Willis Group,1023,1995-01-28,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3042,Decommissioned
+Francis PLC,"64441 Colleen Flats Apt. 700
+South Stevenbury, TX 36773","Chapman, Wilkerson and Wood",1767,2000-06-30,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1605,Under Construction
+Guerra-Brown,"195 Wanda Wells
+Port Randy, CT 62308","Graves, Lara and Austin",865,2008-08-25,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2022,Decommissioned
+Velazquez Group,"804 Samantha Falls Suite 794
+North Ellenchester, WI 67833",Costa Ltd,692,2016-10-26,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2892,Operational
+"Jackson, Stewart and Johnson","43023 Sandra Cliff
+North Barbara, HI 69165","Peterson, Graves and Berger",1082,2016-12-21,Boiling Water Reactor,Light Water Reactor,Uranium,4592,Under Construction
+"Gibson, Sanchez and Mckinney","977 Webb Grove Suite 373
+Fosterfurt, WI 47133","Young, Thompson and Benitez",1604,2007-12-03,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4306,Decommissioned
+"Burton, Williams and Hansen","932 Robert Circles
+Brownmouth, NY 61957",Anthony Group,1388,1999-05-17,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1550,Decommissioned
+Hunt and Sons,"18432 Paul Radial
+New Joyce, AS 94115","Walker, Kemp and Wood",1390,2005-08-19,Fast Breeder Reactor,Light Water Reactor,Uranium,3450,Decommissioned
+Franklin-Shields,"24471 Anderson Glen Suite 063
+Manuelborough, MI 69513",Henderson LLC,1153,1995-05-03,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4501,Under Construction
+Harvey-Marshall,"USCGC Hart
+FPO AP 43520","Harris, Johnson and Thompson",1097,2006-08-04,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2418,Operational
+Garcia-Sanchez,"5399 Cheryl Manors Suite 815
+Amberberg, AR 49878",Patrick LLC,525,2006-10-16,Fast Breeder Reactor,Light Water Reactor,Thorium,1989,Under Construction
+Rios LLC,"305 Chase Orchard Suite 858
+West Heather, MA 96799",Lloyd LLC,1894,1996-02-13,Boiling Water Reactor,Light Water Reactor,Plutonium,3652,Operational
+Gibson and Sons,"69440 Thompson Spurs Apt. 271
+East Jill, NC 39715",Novak-Bradley,1994,2018-02-06,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3963,Decommissioned
+Guzman-Sexton,"4156 David Vista Suite 698
+East Morganfurt, OR 72912",Morris Inc,1355,2006-08-06,Pressurized Water Reactor,Light Water Reactor,Uranium,1338,Operational
+Reyes PLC,"18811 Kathleen Club Apt. 724
+Gailport, IL 79588","Molina, Manning and Rodriguez",1557,2012-03-02,Pressurized Water Reactor,Light Water Reactor,Plutonium,2313,Under Construction
+Mcdonald-Dunn,"9707 Gutierrez Parks Apt. 706
+Diazberg, WA 51821","Odom, Smith and Bender",1789,2015-06-21,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4027,Decommissioned
+"Mendoza, Smith and Williams","30485 Woods Shoal Suite 576
+Anthonymouth, CO 42660",Murphy Inc,950,2001-08-12,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3110,Under Construction
+"Peck, Melendez and Thomas","194 Blanchard Fall Suite 265
+West Jeffreyhaven, TN 75328",James-Farmer,1954,2007-03-09,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4731,Decommissioned
+Sanford-Collier,"57176 Parrish Junction
+West Alyssa, AL 02626",Morgan-Hutchinson,1059,2019-05-06,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,1737,Operational
+"Brown, Mullins and Cisneros","4841 Allison Manor
+Bryanshire, TX 48712",Johnson-Maddox,1005,2002-01-27,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2094,Operational
+Stone and Sons,"5009 Emily Cliff
+Myersmouth, TN 03704",Johnson PLC,1775,1994-02-23,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2793,Decommissioned
+Jefferson LLC,"0605 Angel Forge
+East Chelsea, MD 19410",Phillips Ltd,1218,2014-10-17,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2599,Operational
+"Lucero, Harris and Jones","PSC 2119, Box 8720
+APO AA 81434","Cruz, Clements and Rodriguez",1560,2013-11-17,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3309,Decommissioned
+Duran-Carrillo,"4906 May Coves
+Nicholsmouth, MH 93937",Brown-Bush,687,2006-12-24,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2034,Under Construction
+Clarke-Stafford,"8294 Katie Haven Apt. 871
+East Suzanne, MA 41550","Anderson, Sanchez and Baker",880,2009-01-26,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1651,Under Construction
+Jones-Key,"19329 Courtney Inlet Apt. 727
+Farrellstad, AL 44664","Barry, Powell and Le",1019,2000-11-05,Boiling Water Reactor,Heavy Water Reactor,Uranium,1230,Under Construction
+Hurst PLC,"706 Foster Springs Suite 191
+Kimberlyton, SD 11143",Ross-Garcia,1460,2017-08-14,Boiling Water Reactor,Heavy Water Reactor,Uranium,3497,Decommissioned
+Nunez Inc,"32644 Price Port Apt. 209
+Vincentburgh, FM 53957","Harper, Thomas and Mclaughlin",1786,2008-04-30,Fast Breeder Reactor,Light Water Reactor,Plutonium,2644,Decommissioned
+Lucas-Robertson,"534 Huang Crossroad
+Amandaland, TN 88358",Rodriguez LLC,1304,2013-11-09,Boiling Water Reactor,Light Water Reactor,Thorium,3231,Under Construction
+Nguyen LLC,"28401 Ian Parks
+Caitlinport, NC 63031",Maldonado-Stewart,1798,2022-11-07,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1498,Decommissioned
+Rodriguez-Armstrong,"53457 John Knoll
+Andrewport, MN 10678",Fischer-Sullivan,606,2008-03-27,Boiling Water Reactor,Light Water Reactor,Plutonium,4392,Operational
+Butler Ltd,"071 David Unions
+Reynoldsville, ID 96081",Carter and Sons,1500,2001-12-08,Fast Breeder Reactor,Light Water Reactor,Plutonium,2296,Under Construction
+Miller Inc,"1727 Roberts Cliffs Suite 318
+East Dustin, KS 81246",Taylor-Martin,664,2005-11-02,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2596,Decommissioned
+Evans-Nguyen,"127 Hatfield View Apt. 511
+Richardside, ID 72915",Mcgrath-Hall,983,2004-01-15,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1469,Operational
+Ibarra-Mitchell,"651 Potts Park
+New Douglas, PW 26190",Jones Group,1227,2008-01-20,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3454,Decommissioned
+"Whitaker, Ochoa and Steele","3941 Paul Trace Apt. 439
+Kariberg, IL 00798","Hanson, Perez and Lopez",1997,2001-03-08,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2866,Under Construction
+"Murray, Ramirez and Martinez","204 Simmons Divide
+North James, KS 92091","Torres, Wilcox and Wright",1743,2022-11-18,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,2088,Under Construction
+Vega Inc,"23736 Mark Ridge Suite 634
+Nobleshire, TN 09445",Gordon and Sons,961,2002-12-16,Fast Breeder Reactor,Light Water Reactor,Thorium,4234,Operational
+"Randall, Allen and Evans","Unit 6068 Box 2094
+DPO AE 52753",Taylor Ltd,1281,2015-01-07,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1199,Operational
+Martin-Ruiz,"8849 David Freeway Apt. 179
+Carlmouth, IL 74721",Matthews-Rodriguez,1450,2008-06-08,Fast Breeder Reactor,Light Water Reactor,Uranium,4569,Under Construction
+"Jimenez, Edwards and Wright","366 Ortiz Harbor
+East Sarah, LA 44104",Henderson-Chen,1711,2017-04-08,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3056,Operational
+"Gomez, Hudson and Jones","3885 Tammy Rapid
+Barneston, AL 56011","Wilson, Sanders and Smith",1004,2001-08-30,Pressurized Water Reactor,Light Water Reactor,Thorium,3207,Operational
+"Chavez, Patterson and Chaney","74244 Holmes Canyon Suite 402
+Port Garrettborough, AZ 59561",Smith PLC,1616,2001-07-24,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1127,Decommissioned
+"Olsen, Arnold and Leonard","PSC 5505, Box 1438
+APO AP 02515",Johnson-Shaw,1112,2001-10-24,Boiling Water Reactor,Light Water Reactor,Thorium,1571,Operational
+"Nguyen, Ruiz and Navarro","PSC 0667, Box 0649
+APO AA 85376",Reed Ltd,1121,2001-03-21,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2008,Under Construction
+Wallace Inc,"77625 Stephanie Glen
+Jameston, MS 01571",Caldwell LLC,1897,2017-06-11,Boiling Water Reactor,Heavy Water Reactor,Uranium,2630,Under Construction
+"Taylor, Johnson and Walker","2531 Eric Square
+East Donaldtown, ME 40801",Cain-Jones,1519,2013-02-26,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3747,Under Construction
+Marshall Ltd,"371 Jaclyn Fords Suite 185
+Lake Daniellehaven, KS 88811","Carroll, Adams and Roberson",970,2021-12-14,Boiling Water Reactor,Heavy Water Reactor,Uranium,2511,Under Construction
+Hayes-Martinez,"8534 Kristin Plain
+East Ryan, WV 14107","Espinoza, Ball and York",1414,2005-06-03,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4103,Operational
+Cox Ltd,"9366 Cardenas Squares Apt. 279
+Port Bradleyport, TN 55534",Hernandez-Allen,810,1996-10-24,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1654,Operational
+"Lopez, White and Jones","20208 Martin Brooks
+Michaelstad, ME 26468",Holt Ltd,1941,2007-09-29,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1978,Operational
+Wallace Ltd,"18020 Brooks Run Suite 872
+Ryanfort, MH 52920","Watts, Hammond and Benton",1028,2020-08-14,Fast Breeder Reactor,Light Water Reactor,Plutonium,1469,Under Construction
+"Key, Reed and Hall","109 Jeff Bypass Apt. 402
+Martinezside, GA 64606",Wood-Walker,793,2018-06-22,Boiling Water Reactor,Light Water Reactor,Uranium,2654,Decommissioned
+Larson LLC,"70754 Jessica Walk Suite 861
+Jeffreyview, FM 52999","Morgan, Ochoa and Brown",833,2008-08-23,Boiling Water Reactor,Light Water Reactor,Thorium,4300,Operational
+Carter-Weeks,"395 Smith Skyway Apt. 121
+Comptonburgh, AL 79981",Smith-Martin,1022,2003-09-08,Boiling Water Reactor,Light Water Reactor,Plutonium,3130,Decommissioned
+Salazar-Garcia,"094 Maria Stream
+South Lauren, KS 23281",Reynolds Inc,1958,2008-12-27,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3570,Under Construction
+White Inc,"6526 Anderson Squares
+Port Jennifermouth, OR 44248",Williams PLC,1238,1999-04-12,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3558,Decommissioned
+Gordon-Knight,"264 Robert Highway
+Gomezchester, MO 00561","Clark, Alvarado and Pratt",1354,2009-11-03,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3156,Operational
+Terry LLC,"723 Ronnie Loaf Apt. 404
+East Robert, GU 82420",Compton LLC,2000,2020-10-27,Pressurized Water Reactor,Light Water Reactor,Thorium,2233,Decommissioned
+"Ellis, Pearson and Mason","17437 Matthew Streets
+Dunnton, CT 39878","Stein, Roberts and Hall",1022,2013-12-13,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2512,Decommissioned
+Wells-Stone,"89112 Flores River
+Port Timothy, CA 93233",Grant LLC,856,2022-10-06,Fast Breeder Reactor,Light Water Reactor,Plutonium,4924,Decommissioned
+Torres LLC,"399 Obrien Wall Suite 310
+South John, MN 59372",Hudson Inc,1384,1997-06-16,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1651,Decommissioned
+Smith LLC,"4416 Tristan Rapid
+New Nicole, WI 52646",Young Ltd,838,2020-01-20,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2319,Under Construction
+Jackson and Sons,"5797 Diane Summit Suite 299
+Port Bethany, OH 68033",Ramsey Group,892,2006-04-03,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4285,Decommissioned
+Jordan-Reynolds,"76997 Jennifer Inlet
+Allenmouth, NV 39811",Rosales PLC,584,2011-08-16,Boiling Water Reactor,Light Water Reactor,Thorium,2194,Operational
+Sexton and Sons,"530 Kenneth Flat
+Robertfort, PA 18688",Thomas and Sons,1925,2008-05-25,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1609,Operational
+Reyes-Bennett,"06944 Hayes Stream
+Douglasview, VT 25418",Montoya Inc,1151,2017-01-25,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3698,Under Construction
+Phillips PLC,"288 Hunter Row Suite 932
+Bethanyton, WA 61314",Cruz-Ortiz,1604,2017-06-02,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4951,Operational
+Buck-Crawford,"USNS Ryan
+FPO AE 67777","Carey, Hughes and Monroe",1530,2005-10-16,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2769,Decommissioned
+Wright-Heath,"70283 Vargas Gardens
+Derekview, PA 85492",Howell-Harris,1037,2000-06-24,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2987,Under Construction
+Wade-Castillo,"493 Randall Mission
+West Misty, MN 89495",James-Lopez,1999,2022-08-22,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1086,Decommissioned
+Rocha LLC,"5303 Jeremy Loop Apt. 753
+Longfort, WI 94032",Lee-Ballard,1647,2000-07-23,Boiling Water Reactor,Heavy Water Reactor,Uranium,3341,Under Construction
+Nichols Group,"22817 Sims Curve Suite 418
+South Christopher, NY 36481",Lopez-Cox,760,2013-02-22,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4911,Under Construction
+Hughes-Davis,"13923 Hernandez Forges Suite 121
+Hernandezton, MP 91634",Fuller PLC,1951,1999-08-09,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1342,Operational
+House and Sons,"22960 Butler Camp
+Jensenmouth, PA 52755",Murray-Walls,997,2013-05-29,Boiling Water Reactor,Heavy Water Reactor,Uranium,3295,Operational
+Garcia-Bradshaw,"17006 Lee Manor
+East Darin, PA 31779","Gross, Wallace and Archer",1030,2019-09-05,Pressurized Water Reactor,Light Water Reactor,Plutonium,3963,Operational
+"Andersen, Harris and Gonzalez","PSC 5550, Box 7367
+APO AA 33088","Phelps, Logan and Martin",663,2016-04-14,Boiling Water Reactor,Light Water Reactor,Thorium,2263,Decommissioned
+Young LLC,"USNS Robinson
+FPO AA 31043","Alexander, Anderson and Lopez",1717,2005-09-08,Fast Breeder Reactor,Light Water Reactor,Thorium,2598,Under Construction
+Padilla Group,"USNS Banks
+FPO AP 42005",Ferguson LLC,1613,2002-10-11,Fast Breeder Reactor,Light Water Reactor,Thorium,3217,Under Construction
+Parker and Sons,"9209 Brown Trafficway Suite 877
+Melissaside, NE 76990",Lopez-Marks,1695,2000-07-13,Boiling Water Reactor,Heavy Water Reactor,Thorium,3985,Decommissioned
+"Hayes, Lee and Spears","880 James Forges Suite 798
+Jorgeton, TN 17970",Hayes-Fritz,1773,2001-12-22,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3431,Under Construction
+Mason Ltd,"768 Steven Burgs Apt. 021
+Robertsonmouth, TN 08682",Gomez LLC,745,2016-02-08,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4255,Decommissioned
+"Crawford, Shepherd and Wagner","5485 Christopher Hill
+North Steven, AK 26694",Hart Inc,719,2014-09-25,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1724,Decommissioned
+"Singh, Cook and Anderson","202 Kristin Stravenue Apt. 611
+Margaretbury, FM 69451",Savage-Reyes,1157,2004-08-20,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1167,Decommissioned
+Garcia-Jenkins,"3661 Parks Views Apt. 207
+Sarahshire, VT 64310",Wilson PLC,1743,2011-09-14,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3745,Operational
+Lam Group,"6613 Yang Wall
+New Madisonville, SD 33785","Bowers, Black and Johnson",544,2019-06-06,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1294,Decommissioned
+"Johnson, Chen and Scott","6969 Ashley Causeway
+Port Travisstad, TN 30994",Dennis-Merritt,1221,2005-09-05,Fast Breeder Reactor,Light Water Reactor,Thorium,1985,Decommissioned
+Shannon-English,"012 Jones Highway Apt. 600
+Port Arthurfort, AS 25910",Curtis-Murphy,1560,2006-03-31,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2432,Decommissioned
+Hancock Group,"57335 James Route Apt. 582
+Williamstad, AZ 28972","Wright, Baird and Ward",1592,2016-03-13,Pressurized Water Reactor,Light Water Reactor,Plutonium,2565,Operational
+"Garcia, Scott and Cruz","00538 Natalie Parkway
+Donaldton, OR 32460",Hendricks Group,1080,2004-09-10,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3282,Operational
+"Johnson, Armstrong and Bowman","436 Bennett Walks Apt. 416
+Haynesview, CT 02720","Sanchez, Davis and Fox",822,1994-08-21,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2171,Under Construction
+Jackson Ltd,"81682 Joseph Bridge Suite 759
+Lake Samanthachester, PR 58188",Rosales PLC,1735,1994-03-12,Boiling Water Reactor,Light Water Reactor,Thorium,1668,Operational
+"Mccormick, Anthony and Gaines","Unit 0603 Box 1592
+DPO AE 13622",Wolfe-Willis,1928,2012-05-02,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1328,Operational
+Jones PLC,"1200 Megan Square Suite 006
+Port Greg, OK 93384",Keith Inc,1632,2002-01-16,Fast Breeder Reactor,Light Water Reactor,Thorium,3603,Under Construction
+Weaver-Maxwell,"581 Kenneth Path Suite 687
+Danielstad, GU 36233",Nixon-Mosley,1908,1997-10-10,Boiling Water Reactor,Light Water Reactor,Plutonium,4142,Operational
+Long-Garcia,"72166 Daniel River
+Port Gerald, VA 75437",Brown-Hill,1259,2011-05-23,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3810,Decommissioned
+Petersen-Murphy,"2260 Shepard Curve
+North Kimberly, SC 06641",Sanchez-Neal,810,2003-05-10,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4798,Under Construction
+Richardson LLC,"399 Mcdonald Ville Apt. 050
+Michelleton, OH 45234","Lewis, Morris and Schmidt",607,2012-10-04,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2885,Under Construction
+"Chandler, Fuller and Saunders","4511 Andrea Mill
+Jacobmouth, IN 63518",Franklin-Warren,859,1999-07-23,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4562,Decommissioned
+"Mueller, Robinson and Newman","17834 King Islands
+East Anthonystad, WV 49550",Davis and Sons,1340,2012-06-23,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3046,Decommissioned
+Flores-Hill,"5576 Daugherty Circle
+Carolynfort, IA 78897","Lopez, Conley and Chandler",1910,2012-11-22,Boiling Water Reactor,Light Water Reactor,Uranium,2340,Operational
+Prince and Sons,"USNV Salinas
+FPO AP 21646",Andersen and Sons,1777,2020-02-01,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3167,Under Construction
+James-White,"Unit 1800 Box 1428
+DPO AP 81667",Stevenson-Jackson,1029,2022-09-16,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1938,Decommissioned
+Arnold Ltd,"007 James Stream
+South Brooke, CO 76816","Wright, Sutton and Clayton",795,2010-11-29,Pressurized Water Reactor,Light Water Reactor,Plutonium,2223,Under Construction
+Byrd PLC,"5986 Thompson Park Apt. 896
+Benjaminshire, NE 26650","Williamson, Herrera and Taylor",604,2001-03-07,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4585,Under Construction
+Jacobs-Adams,"4782 James Garden
+Lewischester, MP 06102","Smith, Phillips and Riggs",1851,2005-05-19,Boiling Water Reactor,Heavy Water Reactor,Uranium,2885,Operational
+Fisher Group,"2511 Tate Inlet
+Thomasburgh, GA 84199",Harris-Rodriguez,894,2016-04-26,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2000,Operational
+Rodriguez LLC,"9721 Michael Springs Apt. 053
+Port Evanland, WA 35110","Owens, Goodman and Beard",809,2022-08-18,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1231,Operational
+Chang Inc,"37940 Arroyo Fords Suite 387
+New Bryan, IN 12794","Reyes, Calhoun and Zuniga",626,2004-02-10,Boiling Water Reactor,Light Water Reactor,Uranium,3480,Under Construction
+"Best, Ramos and Watts","980 Hines Trail Apt. 714
+Alvaradohaven, MO 15103",Miller Inc,1646,1995-05-04,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4352,Under Construction
+Baker-Ferguson,"344 Smith Shore
+East Charles, NY 87163",Carter Inc,1098,1995-05-10,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3453,Decommissioned
+"Joyce, Madden and Leblanc","51739 Lee Gateway Suite 127
+Manningside, DE 09759",Zuniga PLC,817,2013-03-01,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2679,Decommissioned
+Lopez LLC,"PSC 3219, Box 6562
+APO AP 48938",Patel Ltd,1650,1994-06-17,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3014,Decommissioned
+Davis-Rodriguez,"19988 Daniels Spurs Suite 229
+Francisburgh, IL 86320",Rodriguez-Hart,1193,1995-11-27,Fast Breeder Reactor,Light Water Reactor,Plutonium,1791,Under Construction
+Gonzalez Ltd,"70886 Coleman Orchard
+Townsendville, WY 53992","Johnson, Campbell and King",1913,2009-08-23,Boiling Water Reactor,Light Water Reactor,Plutonium,4737,Decommissioned
+Klein PLC,"0678 Keith Via Apt. 755
+Deborahhaven, GU 30021","Edwards, Knight and Wilkerson",1745,2022-02-11,Fast Breeder Reactor,Light Water Reactor,Plutonium,3981,Decommissioned
+Long-Patterson,"60101 Jennifer Crossroad
+Lake Douglas, ME 75296",Hester Inc,1769,1998-07-28,Pressurized Water Reactor,Light Water Reactor,Uranium,3358,Under Construction
+Powell-Davis,"802 Bates Passage
+New Ericside, ID 49090",Holmes-Valdez,1048,2017-04-11,Fast Breeder Reactor,Light Water Reactor,Plutonium,2043,Operational
+Perez-Wiley,"553 Steven Mount Apt. 624
+North Brandyfurt, IA 63188","Hudson, Briggs and Brooks",983,2007-02-19,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4115,Decommissioned
+"Hill, Young and Powell","461 Lynch Route
+Lake Timothy, OK 99650","Hernandez, Clay and Cordova",1199,2008-01-11,Fast Breeder Reactor,Light Water Reactor,Plutonium,3344,Under Construction
+Mcclain-Khan,"322 Danielle Stream
+East Rebeccaland, IL 71790","Lopez, Mueller and Norman",506,2002-09-09,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2347,Under Construction
+Murray Ltd,"2280 Robert Mall
+Lake Toddberg, AL 74152","Hess, Griffin and Harris",748,2002-12-23,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3092,Decommissioned
+"Morgan, Martinez and Koch","919 Hughes Wall Apt. 621
+Lake Markmouth, VA 94203","Silva, Harris and Thompson",1401,2006-08-16,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2775,Decommissioned
+Mitchell Group,"1062 Parker Heights Suite 965
+North Karenstad, CA 84991","Dunlap, Barker and Wagner",1499,1999-03-10,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1247,Under Construction
+Howard-Stewart,"047 Lori Freeway
+Jonesbury, PW 01931","Mullins, Wilson and Stephens",1248,2011-03-22,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1201,Operational
+Smith PLC,"429 Heather Pike
+Lopezfort, FM 54296",House-Perez,760,2015-08-06,Boiling Water Reactor,Heavy Water Reactor,Thorium,2162,Decommissioned
+Olson-Tucker,"7207 Renee Islands Suite 663
+Port Corey, PR 12163","Smith, Mosley and Harper",1454,2011-06-01,Boiling Water Reactor,Light Water Reactor,Uranium,3069,Operational
+Thompson-Hawkins,"676 Nancy Manors Apt. 534
+Tanyaside, IN 03500","Rowland, Williams and Webb",1586,1995-11-11,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3113,Under Construction
+"Ramirez, Torres and Rose","4342 Aaron Branch
+Port Francismouth, MS 54186",Bell-Mendoza,1830,1995-08-21,Fast Breeder Reactor,Light Water Reactor,Uranium,1449,Under Construction
+Wilkins-Smith,"9825 Miller Inlet Apt. 115
+Lake Andrea, IN 45515",Glass-Hardin,1802,2010-06-02,Fast Breeder Reactor,Light Water Reactor,Uranium,2424,Operational
+Wright LLC,"529 Corey Neck Apt. 155
+Fieldsfurt, ME 21655",Bailey-Hull,1101,2007-11-24,Boiling Water Reactor,Heavy Water Reactor,Uranium,4847,Operational
+Vasquez-Rowe,"21725 Belinda Ridge Apt. 992
+South Regina, VI 95141","Paul, Haynes and Nelson",765,2003-11-20,Boiling Water Reactor,Light Water Reactor,Plutonium,1560,Operational
+"Olson, Smith and Reid","4367 Brittany Brooks
+Wilsonmouth, WV 11836","Cameron, Howard and Gutierrez",934,1997-09-22,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4494,Decommissioned
+Robertson-Taylor,"1053 Denise Pines Suite 547
+West William, KS 61913",Fox-Williams,1244,2013-07-19,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4340,Under Construction
+Brown Inc,"956 Martha Heights Suite 622
+Jenniferview, ND 83715",Anderson Group,1181,1998-02-02,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2361,Decommissioned
+Collier Ltd,"Unit 8946 Box 7790
+DPO AP 32822","Rosales, Schultz and Thompson",1440,2003-12-18,Boiling Water Reactor,Light Water Reactor,Thorium,4891,Operational
+"Turner, Bowers and Rose","76098 Kayla Station
+New Adamville, HI 19957",Kelley Ltd,1286,1996-05-20,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2688,Under Construction
+"Evans, Olson and Morgan","9494 Suzanne Forges Apt. 299
+North John, NY 75541",Love-Webb,1537,1997-09-23,Pressurized Water Reactor,Light Water Reactor,Uranium,2697,Under Construction
+Fischer and Sons,"3137 Anna Hill Suite 706
+East Stephanieport, ID 82626",Deleon-Lewis,1008,1998-09-27,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2692,Operational
+Harris and Sons,"31371 Jacob Highway
+Port Heather, FM 12921","Stanton, Jones and Clark",1520,1994-01-30,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1829,Decommissioned
+Edwards-Norris,"480 Davis Passage Apt. 573
+Port Marktown, TN 84608",Clark-Morris,538,2017-02-06,Fast Breeder Reactor,Light Water Reactor,Plutonium,2365,Decommissioned
+Cooke-Morrow,"91661 Michelle Walk Apt. 365
+East Lindseybury, WA 43351","Perez, Strickland and Diaz",939,2017-07-03,Boiling Water Reactor,Heavy Water Reactor,Uranium,1910,Operational
+Cunningham-Foley,"745 Smith Spring Apt. 090
+Allenbury, FL 89076",Collins Group,1087,2019-07-05,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1598,Decommissioned
+"Martinez, Moss and Baldwin","844 Rivera Forges
+West Matthew, NV 87325",Lam Inc,1802,2013-08-14,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4553,Under Construction
+"Henderson, Mason and Gallagher","479 Michael Wall
+Duartemouth, CT 33667",Velasquez Inc,973,2014-01-25,Fast Breeder Reactor,Light Water Reactor,Uranium,1538,Operational
+"Boyle, Thompson and Hall","7220 Angela Station Suite 975
+East Brenda, UT 36011","Henry, Pena and Calderon",639,2017-01-30,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2213,Decommissioned
+Rodriguez-Mckee,"11197 Walker Hill
+Ericburgh, AK 66582","Johnson, Chan and Huang",1103,1997-07-29,Fast Breeder Reactor,Light Water Reactor,Thorium,4106,Operational
+"Leon, Lynch and Smith","333 Tiffany Prairie Suite 739
+South John, NC 20220","Compton, Walter and Baker",1657,2022-11-25,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2110,Under Construction
+"Greene, Harris and Martinez","65169 Pollard Highway Apt. 591
+Lake Josephside, MP 53830",Mccann-Turner,1741,1994-11-24,Fast Breeder Reactor,Light Water Reactor,Thorium,1290,Operational
+"Lucero, Wheeler and Evans","5571 Sean Parkway
+Antoniohaven, DE 18308","Diaz, Moon and Reid",591,2009-03-10,Boiling Water Reactor,Heavy Water Reactor,Uranium,2099,Operational
+Murray Ltd,"3087 Wood Road
+New Richardville, UT 44396","Khan, Stout and Garcia",1689,2011-05-28,Boiling Water Reactor,Light Water Reactor,Plutonium,3303,Operational
+Martinez-Martin,"73317 Bishop Causeway Suite 673
+Brianmouth, MI 69123",Horton-Hill,1533,1999-03-25,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,1897,Operational
+"Jones, Olsen and Summers","USNS Clark
+FPO AP 41041",Clarke-Jensen,1681,2012-12-23,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4332,Operational
+"Jordan, Hernandez and Mccarthy","41427 Gardner Expressway Suite 437
+Lake Daniel, NY 28706","Moreno, Eaton and Garcia",1190,2009-04-25,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2477,Under Construction
+Haynes PLC,"487 Jennifer Pine
+Arnoldfurt, NJ 00917",Peterson-Ellis,1792,2017-01-30,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4084,Operational
+Green-Jackson,"9075 Arthur Junction Apt. 590
+Thomasburgh, MD 88278",Payne-Harris,1718,2012-06-02,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2016,Operational
+"Tran, Harris and Conner","90120 Andrew Avenue
+North Rachel, DC 56504",Arias Ltd,1354,2016-01-22,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4282,Operational
+"Orr, Grant and Rodriguez","1689 Teresa Fields
+Port Markton, NY 93991",Andrews-Morrow,831,2022-09-09,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2775,Decommissioned
+"Robinson, Thornton and Hernandez","96356 Marcus Island
+New Sara, OR 19386","Campbell, Gross and Barber",1592,2022-08-14,Pressurized Water Reactor,Light Water Reactor,Thorium,3788,Decommissioned
+Adams Group,"058 Brittany Oval Suite 847
+Port Hunter, RI 26464",Levine Inc,981,2012-06-23,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2445,Operational
+Hancock Ltd,"7293 Frank Island Suite 600
+East Davidstad, VT 61911",Garcia-Smith,933,2001-07-28,Pressurized Water Reactor,Light Water Reactor,Uranium,3347,Under Construction
+Coleman-Wilson,"8336 Wade Squares Apt. 402
+Rachaelberg, WA 55768",Perkins PLC,646,2000-01-01,Boiling Water Reactor,Light Water Reactor,Uranium,4517,Operational
+Jones Group,"5032 Gallagher Dale Suite 612
+Mendezfurt, HI 18056","Turner, Hampton and Gonzalez",1504,1998-02-27,Boiling Water Reactor,Light Water Reactor,Thorium,3726,Operational
+Klein-Caldwell,"PSC 8083, Box 0435
+APO AE 62437","Hudson, Thomas and Smith",969,1998-08-29,Pressurized Water Reactor,Light Water Reactor,Plutonium,4940,Under Construction
+Brown-Yoder,"8517 Velasquez Plaza Suite 321
+East Douglas, WI 96685",Cooper-Wells,1338,2016-02-12,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1425,Decommissioned
+"Morales, Mendez and Morgan","83946 Thomas Shore
+East Michael, KS 19886","Guzman, Everett and Cameron",908,2008-05-12,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3484,Under Construction
+"Mathews, Walsh and Shah","488 Tate Junction Suite 852
+South Lindsayside, DC 58935","Morales, Parker and Garrett",1855,2002-12-07,Fast Breeder Reactor,Light Water Reactor,Uranium,1505,Under Construction
+Pierce and Sons,"3953 Velazquez Throughway Suite 142
+Brownshire, MH 04572",Jacobs-Alvarado,1936,2000-03-05,Fast Breeder Reactor,Light Water Reactor,Uranium,2830,Operational
+"Frederick, Lester and Schwartz","539 Taylor Orchard Suite 700
+Adamshaven, IL 28825",Taylor-Stark,1244,2011-01-24,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4931,Decommissioned
+Martin-Adams,"Unit 5782 Box 5662
+DPO AE 38285",Fowler PLC,576,1995-09-16,Fast Breeder Reactor,Light Water Reactor,Uranium,4691,Under Construction
+Sloan-Freeman,"45029 Gonzalez Forge
+East Robin, OR 60883",Gonzalez Ltd,1915,2017-09-25,Boiling Water Reactor,Heavy Water Reactor,Uranium,3104,Decommissioned
+Burns PLC,"9339 Kaitlyn Estate
+Rogersview, GU 51415",Willis-Howard,1024,2015-12-13,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3792,Decommissioned
+Taylor Ltd,"83482 Kristen Walk
+Lisaville, AZ 54689",Hudson Inc,738,2000-08-17,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4924,Operational
+"Cox, Rios and Arellano","6211 Joshua Ramp
+Port Meagan, CA 01590",Figueroa-Brady,820,2021-09-26,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,3079,Operational
+Anderson PLC,"908 Suarez Landing
+Bishopberg, WY 22648","Foster, Hayes and Martin",1146,2016-02-18,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4106,Under Construction
+Sloan and Sons,"8474 Eric Neck Suite 157
+East Pamela, DE 14075",Meyers Group,1317,2012-10-23,Pressurized Water Reactor,Light Water Reactor,Thorium,1414,Under Construction
+"Perez, Smith and Sherman","265 Green River
+North Matthewburgh, CT 83710",Wood-Johnson,1290,2016-06-21,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3736,Operational
+Levy PLC,"7274 Robert Landing Apt. 105
+North Zachary, HI 38161",Mitchell Inc,1427,2017-07-12,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3324,Under Construction
+"Robinson, Boone and Warren","69795 Joseph Summit Suite 766
+Deborahville, NM 95774",Wagner-Davis,1123,2011-10-30,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2083,Decommissioned
+"Wright, Deleon and Perry","3227 Shawn Cape
+West Lindseyborough, DC 30745","Graham, Morgan and Anderson",647,2000-03-31,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1746,Under Construction
+"Perez, Walter and Moore","9354 Bell Unions Apt. 568
+West Jeanneberg, SD 61425",Davis-Rose,1733,2013-08-16,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4764,Under Construction
+"Garcia, Potter and Rangel","715 Jessica Villages Suite 734
+Landryberg, IA 86547",Fields-Stark,1982,2020-02-26,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1419,Under Construction
+Bridges Group,"042 Jerry Estate
+South Samanthaport, GU 80216",Scott-Romero,1606,2002-06-27,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2179,Under Construction
+Phillips-Wood,"USS Pope
+FPO AE 66138",Murphy-Aguilar,791,2003-10-20,Boiling Water Reactor,Light Water Reactor,Thorium,3930,Operational
+Perez and Sons,"Unit 1321 Box 4583
+DPO AP 03020","Leach, Middleton and Lopez",918,2013-02-05,Boiling Water Reactor,Light Water Reactor,Plutonium,1967,Under Construction
+Diaz-Jackson,"47007 Garcia Islands Suite 948
+East Kristine, FL 06736","Powers, Sosa and English",1485,2014-04-11,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3978,Decommissioned
+Everett-Nolan,"9877 Marshall Centers
+Farmerview, TN 09054",Cannon-Carter,782,2010-02-12,Boiling Water Reactor,Heavy Water Reactor,Uranium,2669,Under Construction
+Green-Dorsey,"259 Christy Meadows Apt. 168
+South Henry, MD 37025",Rodriguez Ltd,755,2018-10-13,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2816,Decommissioned
+Alvarez Ltd,"92725 Martinez Locks Apt. 674
+Charlesport, OR 53520",Kirk Group,1555,2008-05-20,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1850,Operational
+"Williams, Peterson and Johnson","945 Peggy Lodge
+West Susan, KY 68101","Green, Crawford and Hancock",1298,2019-06-24,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4718,Under Construction
+Farrell-Navarro,"145 Ortiz Manors Suite 818
+North Kimberly, AL 14117",Long and Sons,1393,2007-11-02,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4062,Under Construction
+Williams Ltd,"995 Erin Radial
+North Kristineburgh, MN 03941","Walker, Bates and Patel",904,2002-08-19,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3208,Under Construction
+Haas-Santiago,"05063 Miller Land
+Hallfort, CO 88010",Hoover Ltd,1344,2016-11-04,Fast Breeder Reactor,Light Water Reactor,Plutonium,2803,Decommissioned
+Pitts-Ruiz,"067 Patterson Throughway Suite 478
+West April, IN 84112","Barry, Espinoza and Moore",771,2019-08-12,Fast Breeder Reactor,Light Water Reactor,Plutonium,4198,Operational
+Hansen-Barrett,"48586 Jeremy Knolls
+West Keithfurt, CO 69389",Taylor Inc,1907,2023-04-08,Boiling Water Reactor,Light Water Reactor,Plutonium,2134,Decommissioned
+"Francis, Miller and Smith","067 Martin Mount
+Port Wendychester, KY 10095","Cross, Webb and Medina",1248,2012-02-18,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3503,Decommissioned
+Odonnell and Sons,"54709 Debra Street
+West Rachel, MH 43710","Kelly, Wall and Davies",1697,2009-05-29,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4725,Under Construction
+Jones-Hawkins,"42972 Stephanie Ports Apt. 823
+Webbbury, AK 00888",Chavez-Patel,1605,2004-05-30,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1651,Operational
+Frost Ltd,"453 Pruitt Roads Suite 759
+East Amandaton, AR 38425",Wilson and Sons,1315,2022-04-18,Fast Breeder Reactor,Heavy Water Reactor,Uranium,3026,Operational
+"Schroeder, Richardson and Carr","1179 Martin Ramp Apt. 320
+Cynthiamouth, NH 52359",Thompson-Schwartz,1469,1997-10-15,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2720,Under Construction
+"Boyer, Patel and Carlson","2251 Martin Stravenue
+New Jeremy, TX 51983","Jackson, Lopez and Villanueva",686,1997-05-14,Fast Breeder Reactor,Light Water Reactor,Plutonium,2749,Decommissioned
+"Payne, Davis and Freeman","08807 Cynthia Orchard Apt. 578
+Erinmouth, MP 09847","Shaffer, Young and Strickland",1425,2022-09-05,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2936,Decommissioned
+Hays-Miller,"66801 Hannah Springs
+Smithhaven, NC 75848",Flynn-Woods,854,1994-12-25,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2321,Under Construction
+"Banks, Thornton and Robinson","9367 Shawn Views Apt. 943
+New Allen, TX 51949","Montgomery, Roberts and Nguyen",1982,1996-04-03,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4384,Decommissioned
+Vargas-Wilson,"5965 Christopher Fort
+New Chelseaton, AL 90423",Riddle and Sons,1776,2007-11-06,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3038,Decommissioned
+Paul PLC,"692 Thomas Island
+South Laurieberg, GA 28791",Walker-Taylor,666,2015-08-10,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3698,Operational
+Coffey PLC,"2488 Armstrong Dale Apt. 483
+Payneshire, WV 18453",Cunningham-Douglas,1541,2008-05-12,Boiling Water Reactor,Heavy Water Reactor,Uranium,3207,Operational
+"Payne, Miller and Humphrey","19100 Kane Ports Apt. 866
+North Donnamouth, GA 34156","Norman, Santana and Mccormick",1144,2007-08-13,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2776,Operational
+King-Oliver,"372 Amanda Plain Suite 737
+Lake Jennifer, VA 09217","Smith, Burgess and Deleon",614,2013-12-05,Boiling Water Reactor,Heavy Water Reactor,Uranium,1999,Operational
+Campbell LLC,"214 Obrien Roads Suite 312
+Taylorfurt, PA 95849",Mitchell PLC,1579,2015-08-06,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3919,Decommissioned
+Martin-Kelley,"5370 Joseph Gateway
+Nelsonside, NJ 19146","Romero, Wright and Brown",801,1996-06-23,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1705,Decommissioned
+Wright and Sons,"22850 Knight Extension Suite 731
+South Christopher, NE 82273","Dalton, Hernandez and Torres",1310,2003-10-27,Boiling Water Reactor,Light Water Reactor,Thorium,1380,Decommissioned
+"Butler, Moore and Romero","3336 Espinoza Burg Apt. 996
+Walkerland, VI 62025",Valenzuela-Owens,993,2015-03-21,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4020,Operational
+Smith Ltd,"91960 Jeremiah Rapid Apt. 688
+Kristenberg, AS 41757",Chang Inc,623,2010-07-04,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3850,Operational
+Mcclure-Hughes,"1140 Cobb Club
+Austinberg, VI 29097",Huff Ltd,1235,2014-08-04,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3335,Under Construction
+Smith-Maldonado,"9187 Keith Lodge Suite 298
+West Timothy, CT 13819",Newman PLC,1567,2022-10-24,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1489,Under Construction
+Soto Ltd,"1348 Emily Burg Apt. 340
+East Marcusburgh, NC 41822","Lee, Kline and Patel",656,2017-05-21,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1124,Under Construction
+Arnold-Campbell,"751 Charles Hollow Apt. 022
+Lake Richard, ID 78022",Clark Ltd,1597,2012-05-21,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3063,Under Construction
+Patrick-Jenkins,"43479 Lauren Junctions Suite 981
+Walkermouth, PR 93056",Callahan-Shaw,716,2005-08-20,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2679,Under Construction
+Ward and Sons,"02569 Rice Squares
+East Wesley, ME 52306",Smith and Sons,1772,2004-03-11,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4323,Under Construction
+"Ingram, Barnes and Johnson","2035 Cole Avenue Suite 913
+Williamport, AK 30311",Medina Inc,563,2018-01-05,Pressurized Water Reactor,Light Water Reactor,Plutonium,3430,Operational
+"Gonzalez, Bradford and Best","439 Linda Greens Suite 434
+New Stephanie, CA 83818","Gomez, Reese and Sanders",857,1996-09-25,Fast Breeder Reactor,Light Water Reactor,Thorium,4891,Under Construction
+"Peterson, Wilkerson and Harris","9019 Bender River Suite 232
+Maddenburgh, WY 26615",James LLC,1280,2011-02-03,Pressurized Water Reactor,Light Water Reactor,Plutonium,1584,Under Construction
+"Lewis, Johnson and Santana","3835 Arellano Street Suite 353
+Mayshire, WI 19759",Ellison PLC,834,2019-03-08,Boiling Water Reactor,Light Water Reactor,Uranium,3300,Decommissioned
+"Andrade, Molina and Green","88060 Long Forks Apt. 177
+Lake Brenda, MT 90037",Oneill Group,1697,2018-02-05,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3764,Operational
+"Levy, Walton and Moore","99405 Espinoza Stream
+Garciaside, NM 66224","Martinez, Riley and Jackson",1471,2002-05-23,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2606,Under Construction
+"Reyes, Bates and Rich","22382 Nicholas Cliff
+West Elizabethton, MS 82904",Mitchell-Wong,848,2009-10-09,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1313,Operational
+"Gibson, Russell and Lopez","7241 French Extensions Apt. 936
+New Malloryfort, ND 86358",Byrd-Williams,816,2020-12-22,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,1918,Operational
+Jenkins-Greer,"0452 Erika River
+Lake Victoria, WY 21041",Williams-Franco,831,2007-08-07,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4562,Under Construction
+"Moore, Schmidt and Jensen","PSC 6867, Box 1874
+APO AP 02275","Peters, Hamilton and Ray",991,2006-11-12,Fast Breeder Reactor,Light Water Reactor,Plutonium,4730,Operational
+"Whitaker, Sanchez and Parker","06494 Sheri Junction
+West Dylanburgh, MD 12181","Bishop, Hernandez and Williams",1781,2002-04-18,Boiling Water Reactor,Heavy Water Reactor,Thorium,3361,Decommissioned
+Smith-Adkins,"2716 Terrance Port Suite 136
+Gomezbury, MT 67157","Black, Douglas and Bennett",1382,1996-07-08,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4221,Under Construction
+Keller-Roberts,"92552 Michael Tunnel
+Jessicahaven, VA 89759",Wiley Inc,657,2001-11-04,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1027,Operational
+Anderson-Gregory,"5109 Jean Burgs Suite 544
+Munozfurt, NH 64838","Wallace, Hill and Webb",507,2006-09-24,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2165,Decommissioned
+"Moon, Cummings and Hicks","0899 Jennifer Manor
+Curryberg, DC 20587",Gardner and Sons,691,1997-06-25,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3230,Decommissioned
+"Johnson, Wong and Williams","241 Williams Fields
+Port Danielton, VI 67197","Fernandez, Archer and Vincent",1463,2017-04-24,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4157,Under Construction
+Collins-West,"725 Young Wells Apt. 713
+Port Judy, AZ 62484",Hill and Sons,1466,2004-05-16,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1223,Under Construction
+"Hopkins, Lee and Spencer","376 Oconnell Curve
+East Sarahburgh, ND 05812",Sanders LLC,1294,2004-11-09,Boiling Water Reactor,Heavy Water Reactor,Thorium,1668,Operational
+Garcia PLC,"0482 Sharon Forest Apt. 503
+North Paula, VA 66977",Harrison LLC,586,2012-12-08,Boiling Water Reactor,Light Water Reactor,Plutonium,1176,Operational
+Camacho-Bennett,"8579 Tonya Fall
+Michaelhaven, WI 04089",Molina-Carroll,957,2022-02-01,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,3676,Operational
+Cox-Moore,"1924 Carol Canyon
+West Matthewview, TX 39067",Brooks PLC,711,1998-06-09,Pressurized Water Reactor,Light Water Reactor,Plutonium,1853,Under Construction
+"Fuller, Green and Herrera","9183 Kennedy Crossroad Apt. 819
+Lake Collinmouth, FL 12545","Chandler, Mills and Weeks",681,1994-07-05,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2264,Under Construction
+Hall LLC,"203 Pena Trafficway Suite 987
+Dillonmouth, OR 78716",Le LLC,1037,1996-02-23,Boiling Water Reactor,Heavy Water Reactor,Thorium,1199,Operational
+Murphy-Cox,"90255 Vang Flats Suite 388
+Port Jonathan, AL 55059",Banks and Sons,850,2010-10-20,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3976,Decommissioned
+Smith-Douglas,"5543 Sarah Causeway Suite 305
+Allisonburgh, TX 30043","Simpson, Cook and Sharp",1157,2001-01-13,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2383,Operational
+Wallace-Moss,"4716 Chelsea Squares
+Johnsonport, IL 53231",Davis-Brady,1623,2011-07-28,Fast Breeder Reactor,Light Water Reactor,Thorium,3996,Operational
+Cline Ltd,"PSC 8115, Box 9588
+APO AP 49050","Mcclain, Davidson and Henry",1085,2019-10-25,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3933,Operational
+Graves-Bartlett,"PSC 7450, Box 6461
+APO AE 45292","Greene, Obrien and Silva",1481,2003-01-23,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1246,Operational
+Rodriguez-Randall,"19738 Lauren Island Suite 772
+Lake Jared, IN 11711","Holt, Mills and West",1850,2013-09-06,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3397,Operational
+Lam-Hutchinson,"25602 Burns Expressway
+Katrinaborough, AS 75247",Dunn Group,1918,2016-10-30,Pressurized Water Reactor,Light Water Reactor,Thorium,2997,Decommissioned
+Archer-Parker,"902 Frank Meadows
+Port Marystad, VT 08598",Rogers Inc,639,1998-01-01,Boiling Water Reactor,Heavy Water Reactor,Uranium,4456,Operational
+Ortiz and Sons,"908 Jose Port
+Lake Allisonland, MP 59700",Brandt-Cook,783,2021-11-12,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2992,Operational
+Garrett Inc,"4171 Candace Cliffs
+Lake Jill, IA 50717",Dawson PLC,1719,2020-03-20,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3430,Decommissioned
+"Peterson, Ellis and Weaver","77210 Underwood Mountain Apt. 915
+New Brettton, FM 27286",Hancock-Liu,1882,2021-06-15,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4168,Decommissioned
+Webster-Estrada,"330 Newton Shores
+New Michaelshire, FM 84179",Hill-Holmes,1605,2020-12-07,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3108,Operational
+"Mack, Jones and Cameron","Unit 3137 Box 3752
+DPO AP 75792",Barber Group,1395,2018-12-18,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4137,Under Construction
+Gonzales-Henderson,"85879 Alicia Springs Suite 463
+Curtisfort, IN 09475",Jones-Ward,1647,2019-10-07,Boiling Water Reactor,Light Water Reactor,Thorium,3166,Operational
+Smith Group,"36626 Guerra Coves Suite 876
+Burgessside, PA 62790",Pierce-Zhang,1417,2022-04-17,Boiling Water Reactor,Light Water Reactor,Uranium,3668,Under Construction
+Hays LLC,"401 Victor Glens
+Jamestown, UT 72222",Benitez Ltd,1236,2020-08-05,Boiling Water Reactor,Light Water Reactor,Plutonium,1525,Operational
+Murray PLC,"638 Amy Lake
+Pamelachester, AS 64033",Campbell-Oneal,1696,2016-07-08,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2413,Decommissioned
+"Hamilton, Martinez and Thomas","11342 Cook Causeway Apt. 632
+Sherifort, WI 66950",Knox-Francis,1655,2014-08-05,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2397,Decommissioned
+Parks-Berry,"098 William Shores
+South Kennethburgh, PW 22816",Parker PLC,794,2005-03-11,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3272,Under Construction
+"Gilmore, Gutierrez and Hammond","1190 Jessica Vista Apt. 228
+Anthonyport, IN 41262",Johnson-Mcdonald,1731,2020-09-26,Pressurized Water Reactor,Light Water Reactor,Thorium,1427,Under Construction
+Taylor and Sons,"23652 Simpson Valleys
+Lake Shelly, MT 45914","Levy, Adkins and Powers",1984,2006-07-18,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1041,Under Construction
+Keller Group,"Unit 5860 Box 0144
+DPO AP 07595","Galloway, Oneal and Garcia",934,2009-04-29,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4850,Decommissioned
+"Robinson, Turner and Villanueva","5012 Charles Spurs
+Vegachester, AR 95658",Mcknight-Sexton,502,1996-10-15,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1610,Under Construction
+Fuller Ltd,"756 Gilbert Radial Suite 739
+North Maryside, NH 14250",Carter Inc,1895,2002-02-23,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2867,Under Construction
+"Collins, Whitaker and Hill","4474 Robert Course Apt. 946
+Johnchester, RI 41835",Morgan-Hughes,598,2000-02-23,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3126,Operational
+Gross-Hill,"142 Eric Cove Apt. 315
+Michaelbury, AS 81576","Jensen, Hooper and Lloyd",1333,1999-09-01,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1577,Under Construction
+Brooks-Escobar,"PSC 4155, Box 1000
+APO AP 21401","Morris, Thomas and Burns",1310,2017-12-24,Fast Breeder Reactor,Light Water Reactor,Plutonium,4556,Decommissioned
+Green Ltd,"PSC 2809, Box 3628
+APO AA 12032",Eaton and Sons,982,2005-07-22,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1138,Under Construction
+"Rogers, Ramirez and Spencer","USNV Olson
+FPO AE 26953","Turner, Horn and Martinez",782,2019-01-06,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1053,Decommissioned
+Solomon-Schwartz,"PSC 0707, Box 2703
+APO AA 66529","Mahoney, Barton and Owens",1090,2015-12-09,Boiling Water Reactor,Light Water Reactor,Thorium,4765,Decommissioned
+"Decker, Morrison and Perez","183 Deanna Ports
+Savageberg, RI 94083",Li LLC,1656,1997-05-17,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1327,Under Construction
+Garcia-Bright,"303 Ashley Circles
+Ruthbury, MP 27260","Bennett, Davidson and Suarez",1485,2004-05-07,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2458,Operational
+Rivera-Johnston,"8596 Tammy Islands Suite 194
+Jeremiahfort, GU 37469","Lawrence, Nichols and Bauer",952,2012-04-13,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2826,Decommissioned
+"Smith, Aguirre and Hill","959 Matthew Mountain
+Freemanbury, MA 59020","Clark, Clark and Parker",1719,2021-11-25,Boiling Water Reactor,Light Water Reactor,Plutonium,4870,Decommissioned
+"Young, Rodgers and Reed","997 Thomas Neck Suite 296
+Dustinhaven, NY 77049",Richardson-Robbins,1487,2002-05-14,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4855,Under Construction
+Stevens Ltd,"5440 Bryant Crescent
+South Justin, RI 13964","Robinson, Smith and Nguyen",738,2013-11-16,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3880,Decommissioned
+Barry-Lopez,"67883 Justin Stream Suite 392
+Robertchester, MA 27548",Chen Ltd,1853,1998-03-14,Boiling Water Reactor,Heavy Water Reactor,Uranium,2996,Operational
+Leonard LLC,"808 Richard Mission Suite 079
+Greenfort, NH 24868","Beck, Allen and Wells",1670,1998-12-31,Pressurized Water Reactor,Light Water Reactor,Uranium,4140,Under Construction
+Harper-Lee,"12882 Cooley Pine Apt. 997
+Taylormouth, CA 47713","Norman, Kaufman and Cherry",977,2009-02-21,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4759,Decommissioned
+Mccann PLC,"5664 James Fork
+New Melanie, WI 58776",Nicholson-Edwards,1828,2010-11-19,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2897,Operational
+"Miller, Reid and Alexander","83291 Mcmahon Squares
+East Andreahaven, HI 72287",Allison Ltd,1997,1994-12-15,Pressurized Water Reactor,Light Water Reactor,Uranium,3997,Decommissioned
+Shields Ltd,"USCGC Munoz
+FPO AP 37751","Harrison, Nelson and Franklin",675,1995-05-29,Boiling Water Reactor,Heavy Water Reactor,Uranium,3445,Under Construction
+Reynolds Group,"2809 Maldonado Burgs
+South Toddhaven, SC 96839","Alexander, Mills and Rubio",888,2013-10-11,Boiling Water Reactor,Light Water Reactor,Uranium,2134,Under Construction
+Blake LLC,"30559 Garrett Throughway Suite 539
+Brucestad, HI 96975",Frederick-Murphy,1072,2011-03-04,Boiling Water Reactor,Heavy Water Reactor,Uranium,4596,Operational
+Hendrix-Chavez,"Unit 7685 Box 9588
+DPO AE 12137",Mendez-Gonzalez,643,2009-05-05,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1370,Operational
+Fox-Adkins,"0347 Daniel Cliffs
+East Thomasland, AS 58143",Fleming-Turner,1056,2004-07-22,Boiling Water Reactor,Light Water Reactor,Uranium,2151,Decommissioned
+Jones-Hebert,"78124 Mathew Curve
+New Sherry, PR 42599","Benson, Bailey and Franco",1117,2023-12-07,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2762,Decommissioned
+"Marshall, Hernandez and Huber","302 Jackson Knoll Apt. 707
+Richardfurt, TN 23891",Long LLC,708,1995-03-22,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1972,Decommissioned
+Jones PLC,"3566 Matthew Creek
+West Chrismouth, AR 12851","Drake, Johnson and Morales",1541,1994-03-31,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1244,Operational
+"Smith, Johnson and James","526 Robinson Cliff Apt. 559
+Gibsonside, WV 78541",Marks and Sons,1669,2014-10-06,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4690,Operational
+Williams Inc,"4918 Judith Course Apt. 861
+Lake Brandon, OH 17684",Glenn Group,1961,1996-02-02,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2257,Operational
+Charles-Rodriguez,"Unit 8964 Box 0637
+DPO AP 18471",Hall and Sons,1604,2017-01-04,Boiling Water Reactor,Heavy Water Reactor,Uranium,2349,Under Construction
+Marshall-Cardenas,"1590 Lisa Mill Suite 642
+New Patriciafort, OK 39306","Wagner, Griffin and Andrade",1856,2007-01-13,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1476,Operational
+"Flores, Daniels and Flynn","69898 Brittany Unions
+Singletonberg, ID 03469","Duncan, Ali and Knight",942,2012-10-15,Boiling Water Reactor,Heavy Water Reactor,Uranium,1937,Decommissioned
+Shepherd-Barrera,"0490 Daniel Route
+North Bryan, CA 54602","Morales, Carrillo and Harrell",1903,1998-08-02,Pressurized Water Reactor,Light Water Reactor,Uranium,1125,Under Construction
+"Griffith, Carlson and Pierce","4603 Erickson Islands Apt. 474
+Stephenfurt, ID 45481",Vazquez Inc,1391,2017-03-09,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3573,Decommissioned
+Watts-Wilkerson,"1245 Mckinney Way Suite 046
+Reillyton, MN 84245","Hensley, Lutz and Martin",1635,2019-02-06,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3905,Decommissioned
+Wood Ltd,"Unit 9077 Box 6677
+DPO AA 29731",Murphy PLC,521,2013-08-18,Fast Breeder Reactor,Light Water Reactor,Uranium,1405,Decommissioned
+"Dunn, Hensley and Smith","68070 Morgan Radial
+New Thomas, KS 39235","Allen, Chung and Ford",1196,2011-12-17,Fast Breeder Reactor,Light Water Reactor,Thorium,4269,Under Construction
+"Ramos, Reese and Jones","1469 Tara Ville Apt. 956
+Bradleyburgh, WV 95605",Ochoa Inc,750,2004-11-01,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2351,Operational
+"Green, Martinez and Barry","40191 Williams Spring
+New James, NH 65279","Duke, Nichols and Browning",613,2019-04-12,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3462,Under Construction
+Wolf-Ray,"PSC 0971, Box 2051
+APO AE 28136",Brock-Green,894,2020-10-07,Boiling Water Reactor,Light Water Reactor,Thorium,2948,Operational
+"White, Brown and Wilkerson","54750 Edwards Causeway
+North Antonioport, IN 51637","Poole, Boyd and Mclaughlin",1230,2023-02-02,Boiling Water Reactor,Heavy Water Reactor,Uranium,1426,Under Construction
+"Walters, Edwards and Duke","218 Pierce Springs
+New Joannhaven, FL 97529",Faulkner and Sons,1907,1997-05-23,Fast Breeder Reactor,Light Water Reactor,Uranium,4931,Decommissioned
+Walker Group,"832 Jordan Turnpike Apt. 201
+North Reneebury, CA 01355",Kirk LLC,1774,1994-12-08,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1350,Decommissioned
+Rodriguez LLC,"Unit 5372 Box 9865
+DPO AE 89015",Campbell-Nguyen,1650,2008-10-13,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2855,Under Construction
+Weeks and Sons,"1109 Ross Club Apt. 924
+Brentburgh, VA 79826",Chambers-Knox,1034,2021-06-17,Fast Breeder Reactor,Light Water Reactor,Uranium,2638,Under Construction
+Oliver LLC,"5445 Jennifer Stravenue Apt. 096
+West Tracyfurt, PA 07161","Clark, Clark and Wood",1139,1996-03-28,Pressurized Water Reactor,Light Water Reactor,Plutonium,1892,Operational
+Bender Inc,"3333 Sarah Bypass Suite 083
+Simonton, VT 52251",Murray-Wood,1692,2009-10-20,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1170,Decommissioned
+"Parker, Costa and Sherman","USS Phillips
+FPO AE 52486","Carter, White and Garcia",1575,2019-01-18,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4261,Under Construction
+Collins Group,"5972 Gonzalez Orchard Suite 830
+Jenniferton, ND 14150","Guerrero, Miller and Parker",1658,1999-01-22,Fast Breeder Reactor,Light Water Reactor,Uranium,1431,Operational
+Hurley PLC,"91609 Charles Trail Suite 127
+Brandonfort, NE 45512",Skinner LLC,805,2011-09-17,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2279,Under Construction
+Adams-Thomas,"USCGC Thompson
+FPO AP 20921","Schwartz, Lloyd and Gallegos",1262,2000-11-22,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1678,Operational
+"Rose, Kim and Sanchez","48066 Michael Grove Suite 980
+Antoniobury, OH 89386",White-Nelson,531,1995-11-22,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2299,Operational
+Mcconnell Ltd,"178 Reed Stravenue Suite 545
+South John, VT 12706",Alexander-Jensen,1242,2007-03-19,Boiling Water Reactor,Light Water Reactor,Uranium,2808,Decommissioned
+Torres and Sons,"0813 Alexander Motorway
+Port Tanner, FM 20874",Flores-Walters,563,2002-07-10,Boiling Water Reactor,Light Water Reactor,Thorium,4877,Decommissioned
+Zavala LLC,"8939 Frey Squares
+Lake Thomasland, PR 50118",Torres PLC,1967,2002-06-01,Pressurized Water Reactor,Light Water Reactor,Uranium,2039,Operational
+Thomas-Gonzales,"579 Kristina Light
+Prattmouth, ID 65416",Ramirez-Edwards,1147,2014-02-19,Fast Breeder Reactor,Light Water Reactor,Thorium,3544,Decommissioned
+Best Inc,"6419 Obrien Forest
+East Scottborough, WA 32264","Williams, Bryant and Rangel",1937,2004-09-26,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1105,Operational
+"Garcia, Bryan and Bryant","USNV Thornton
+FPO AA 68973",Collins Ltd,759,2018-06-17,Boiling Water Reactor,Light Water Reactor,Plutonium,2677,Decommissioned
+Stewart Group,"1612 Brown Tunnel
+North Brittany, DE 96785","Black, Orr and Jenkins",1677,2003-03-16,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3605,Operational
+Watkins-Adams,"030 Chaney Hills Suite 527
+Peterside, WV 79628",Morrison Ltd,1288,2011-10-13,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2752,Under Construction
+Snyder and Sons,"37544 Thompson Extension Suite 598
+Joseton, VI 22432",Butler and Sons,1464,2002-04-03,Boiling Water Reactor,Light Water Reactor,Plutonium,2332,Decommissioned
+Hancock-Mata,"9427 Breanna Centers
+Jenniferburgh, AS 96150",Lawrence Inc,988,2021-11-28,Fast Breeder Reactor,Heavy Water Reactor,Uranium,3127,Under Construction
+Pearson LLC,"307 Davis Throughway
+Joshuastad, HI 02752",Robertson Inc,1057,2001-01-19,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2830,Operational
+French LLC,"84394 Lewis Estate
+Port Sean, MT 04956",Beck Ltd,510,2001-04-20,Boiling Water Reactor,Light Water Reactor,Uranium,2959,Operational
+Johnson-Villa,"55605 Becky Forges Apt. 426
+Danielstad, NY 76381","Hall, Welch and Avery",1107,2008-02-10,Pressurized Water Reactor,Light Water Reactor,Uranium,1153,Decommissioned
+Glover PLC,"6752 Robert Islands
+Shaneberg, SC 26839",Pittman Ltd,641,1998-01-13,Pressurized Water Reactor,Light Water Reactor,Uranium,2333,Under Construction
+"Hernandez, Myers and Brooks","4589 Robles Orchard
+West Timothyview, AS 50838","Butler, Frazier and Johnson",1479,2006-07-22,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3436,Decommissioned
+"Hahn, Powers and Franklin","3962 Campos Valley Suite 276
+Dianetown, WY 50833",Castro Ltd,1135,2011-11-27,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4401,Under Construction
+"Davis, Taylor and Jones","291 Murphy Motorway
+Port Donald, NM 21433","Ayers, Lewis and Jackson",549,1994-12-30,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4485,Operational
+"Lane, Chapman and Hansen","3039 Jacobson Landing Suite 430
+Ponceborough, FL 99770",Ramirez LLC,1414,2004-01-10,Boiling Water Reactor,Light Water Reactor,Plutonium,1691,Under Construction
+Ray PLC,"840 Jennifer Track Apt. 950
+Washingtonborough, PA 20458","Lewis, Marks and Olson",648,2015-08-02,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,2778,Under Construction
+Page-Foster,"318 David Street Apt. 648
+Lake Robin, OK 32842",Jensen-Morris,1165,2002-09-11,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1004,Under Construction
+"Guzman, Williamson and Mitchell","6894 Garza Plaza
+Lake Robert, MA 93569",Washington-Maddox,952,2001-09-22,Pressurized Water Reactor,Light Water Reactor,Thorium,4502,Operational
+Payne Group,"464 Smith Wells
+South Diana, MD 77375","Robertson, Bright and Edwards",1711,2020-12-07,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1784,Under Construction
+Hamilton Inc,"626 Hernandez Freeway Suite 577
+Tammyton, RI 37296",Martinez Inc,1165,2006-10-02,Boiling Water Reactor,Light Water Reactor,Thorium,4560,Decommissioned
+Waller Ltd,"78961 Hatfield Lodge
+Timothyville, MA 45083","Norris, Mason and Shepherd",1709,2018-03-04,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1254,Operational
+Powell-Travis,"70179 Mosley Springs
+Herringview, MD 84343",Warren LLC,1061,2000-07-18,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2226,Decommissioned
+"Vang, Moreno and King","433 Kristen Path
+Danielleview, MO 75879","Davis, Heath and Williams",1910,2019-05-28,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1675,Decommissioned
+Stafford-Phillips,"349 Clark Via
+Christopherchester, TN 67366",Walker-Guzman,765,2016-06-10,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4714,Decommissioned
+Valdez Group,"53413 Vaughan Square Apt. 304
+Melissabury, OR 46812",Woodward Inc,1409,2022-08-21,Boiling Water Reactor,Light Water Reactor,Plutonium,4302,Operational
+"Anderson, Sanders and Brock","41748 Buck Prairie Apt. 278
+East Michaelton, GA 38763",Pennington PLC,1632,2008-09-13,Fast Breeder Reactor,Light Water Reactor,Thorium,4792,Decommissioned
+Carr Inc,"USS Anderson
+FPO AP 68398",Nelson-Goodman,624,2021-08-31,Fast Breeder Reactor,Light Water Reactor,Uranium,2435,Operational
+Miller Group,"93106 Robyn Flat Suite 733
+North Eugene, CA 29753",White Inc,1604,2018-07-13,Fast Breeder Reactor,Light Water Reactor,Thorium,3145,Operational
+Simmons Group,"0497 Sierra Causeway
+West Eric, OR 39421","Sanchez, Martinez and Mathews",640,2008-05-25,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4383,Under Construction
+Bennett PLC,"76405 Long Views
+Figueroamouth, NM 05353",Crawford and Sons,739,2004-03-04,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2712,Under Construction
+Duke-Shaw,"29233 Hayes Bridge
+North Joshua, NE 62386",Salinas-Lloyd,1133,2007-03-27,Boiling Water Reactor,Light Water Reactor,Thorium,1470,Decommissioned
+Lynn PLC,"77627 Brooks Ridges Suite 255
+South Latashaview, VT 57561",Castillo and Sons,1551,2008-03-20,Fast Breeder Reactor,Light Water Reactor,Uranium,4337,Under Construction
+"Garcia, Taylor and Ryan","42407 Deborah Plains
+Michaelview, LA 81457","Perkins, Dominguez and Wallace",1574,2005-07-06,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3442,Decommissioned
+Marshall-Marks,"547 Carney Dale
+West Angelafurt, MH 91750",Lawrence Group,858,2003-07-18,Boiling Water Reactor,Heavy Water Reactor,Uranium,4650,Operational
+Cunningham-Fisher,"5693 Johnson Cove Apt. 639
+Port Davidborough, AS 66090","Crosby, Morse and Escobar",886,2022-03-18,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2233,Decommissioned
+"Thompson, Thornton and Roberts","79036 William Lodge
+Lake Williamburgh, WA 76444","Hawkins, Schultz and Wise",909,2016-10-15,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3666,Decommissioned
+Carlson-Johnson,"3346 Christopher Spurs
+Brendashire, MI 57977",Rose Group,1884,2020-07-04,Fast Breeder Reactor,Light Water Reactor,Thorium,3558,Decommissioned
+"Miller, Perry and Williams","0928 Sawyer Via Apt. 892
+Josephfurt, HI 20560",Franklin-Daniels,1688,1997-03-02,Boiling Water Reactor,Light Water Reactor,Uranium,2071,Operational
+Watson-Carrillo,"679 Wiley Dam
+Smithburgh, AL 39027","Grant, Miles and Roberts",1452,1996-08-03,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3967,Decommissioned
+Perez Inc,"USS Rivera
+FPO AE 83134",Williamson PLC,1433,2016-05-30,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1861,Under Construction
+"Richardson, Mack and Liu","188 John Greens
+Ramirezport, AL 64438",Camacho PLC,1335,1996-01-28,Boiling Water Reactor,Light Water Reactor,Thorium,2162,Operational
+Avila Ltd,"5319 Carl Plain
+Pughville, GU 69958",Cervantes-Greene,1458,2009-04-04,Fast Breeder Reactor,Heavy Water Reactor,Uranium,2316,Under Construction
+Williams Group,"732 Jon Cove
+Danielhaven, DE 08236",Davis Group,1529,1999-04-22,Fast Breeder Reactor,Light Water Reactor,Uranium,4204,Under Construction
+Powers PLC,"9019 Johnson Land Suite 643
+East James, NV 87477",Thomas Group,1614,2010-12-16,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3682,Under Construction
+Woods-Burnett,"33152 Benjamin Branch
+Howardchester, OH 37509",Griffin-Casey,1314,2011-08-02,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3037,Decommissioned
+"Washington, King and Davidson","10472 Orr Vista
+New Jessica, RI 51201",Vasquez PLC,618,1995-02-23,Fast Breeder Reactor,Light Water Reactor,Thorium,3380,Decommissioned
+"Watkins, Russell and Campos","148 James Crossing Apt. 136
+Matthewbury, PA 34184",Stevenson PLC,1442,2003-07-24,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3998,Decommissioned
+"Baker, Rios and Mitchell","4933 Lee Valley Apt. 632
+Tylermouth, MN 52108","Martin, Thornton and Mclaughlin",1046,2023-02-19,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3537,Decommissioned
+Collins-Nguyen,"1191 Hammond Ville Apt. 892
+South James, WI 48808",Costa-Martinez,1710,2014-04-12,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1743,Under Construction
+Singh Ltd,"49011 Smith Cape
+Carriemouth, UT 34775","Mccullough, Webster and Tucker",1995,2014-02-19,Pressurized Water Reactor,Light Water Reactor,Uranium,2475,Under Construction
+"Moore, Campbell and Hernandez","1284 Spencer Burg
+Haroldshire, SD 06091",Oneill-Mann,1046,2008-08-19,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3088,Decommissioned
+Davis-Mclaughlin,"7824 Wong Underpass
+North Joshuaburgh, FL 29063","Scott, Osborne and Baker",1528,2023-05-11,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2768,Operational
+Lee-Norton,"97097 Ebony Isle
+Newtonburgh, OH 10620","Harris, Wade and Bishop",1279,2004-09-11,Boiling Water Reactor,Heavy Water Reactor,Uranium,1289,Operational
+"Vazquez, Salazar and Wright","39929 Benjamin Ridge Suite 868
+East Brianmouth, MN 48355","Mcclure, Gonzalez and Young",1021,2023-06-23,Pressurized Water Reactor,Light Water Reactor,Thorium,1042,Decommissioned
+Sandoval Group,"00369 Nicole Ridge Suite 191
+Barnesburgh, NC 53419",Pittman Ltd,1360,2007-03-17,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4612,Decommissioned
+Lee-Brown,"Unit 5992 Box 3744
+DPO AA 53655",Rogers-Johnson,1224,2020-05-26,Fast Breeder Reactor,Light Water Reactor,Uranium,2131,Under Construction
+Perez-James,"PSC 3243, Box 5160
+APO AA 69885",Hernandez-Parker,1254,2007-07-03,Pressurized Water Reactor,Light Water Reactor,Plutonium,4130,Decommissioned
+"Davis, Gamble and Perez","000 Matthew Valley
+Hollymouth, IA 64054",White-Norton,1224,2023-10-25,Boiling Water Reactor,Light Water Reactor,Plutonium,3698,Operational
+"Williams, Kennedy and Dodson","512 Mcdonald Orchard Apt. 337
+Walterston, MN 06914",Brown Group,1025,2017-01-26,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4112,Under Construction
+Dodson-Scott,"4403 Combs Gardens Suite 493
+West Richardburgh, ID 42100","Kerr, Gillespie and Curry",1631,1996-04-08,Boiling Water Reactor,Light Water Reactor,Thorium,4498,Operational
+King Inc,"25236 Owen Hollow
+South Stephanieshire, GU 25976","Reeves, Davis and Howard",656,1994-11-01,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1835,Under Construction
+Petersen-Torres,"408 Barrett Crest Apt. 825
+Lake Jodi, MP 60672",Miller-Juarez,1534,2022-05-25,Pressurized Water Reactor,Light Water Reactor,Uranium,1374,Decommissioned
+Harris-Turner,"97538 Higgins Squares
+Sarahport, GA 18495",Carney Group,1783,2019-09-09,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3056,Operational
+Wilson-Smith,"Unit 5089 Box 5457
+DPO AP 02782","Spencer, Campbell and Duran",1177,1996-07-06,Pressurized Water Reactor,Light Water Reactor,Plutonium,4362,Operational
+Harrell-Young,"254 Jessica Keys Suite 725
+Jonesville, AK 21163","Smith, Moss and French",1065,2008-11-08,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1794,Under Construction
+"Fuentes, Johnston and Collins","963 Barnes Prairie Suite 572
+Anthonyfurt, VI 23388",Rodriguez LLC,1746,2008-02-13,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4121,Operational
+Olson Inc,"6567 Stephanie Station Apt. 950
+North Ronnieburgh, VI 90108","Peterson, Turner and Davis",1692,2001-05-11,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2650,Operational
+"Contreras, Clayton and Turner","8520 Vargas Camp
+Petersport, SD 10753",Stephens PLC,853,2013-06-29,Boiling Water Reactor,Light Water Reactor,Uranium,2531,Operational
+King PLC,"PSC 6896, Box 6348
+APO AE 65728","Kelly, Estrada and Little",1869,2012-02-24,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2052,Operational
+Wilson-Frank,"867 Jennifer Cliffs Suite 760
+Lake Vanessa, TX 30640","Smith, Odonnell and Bennett",1737,2019-05-01,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2868,Operational
+Glover-Martin,"240 Janice Landing
+Mcintoshhaven, ID 36238","Santiago, Campbell and Wright",1768,2013-12-19,Boiling Water Reactor,Light Water Reactor,Uranium,2238,Decommissioned
+Scott-Savage,"191 Katie Village
+Michaeltown, GU 62579","Nguyen, Hopkins and Lowe",1663,2003-06-22,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2343,Under Construction
+Watson-Walsh,"683 Edward Groves
+Erinstad, SD 99574",Carrillo-Allen,624,2008-06-29,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4730,Under Construction
+Brooks LLC,"5752 Roth Circle Apt. 561
+New Michael, KY 42273",Allen LLC,847,2012-07-20,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2888,Decommissioned
+Powell Group,"49326 Bradley Causeway Apt. 089
+Port Anne, MN 38428","Wagner, Ramirez and Singleton",553,2004-08-08,Boiling Water Reactor,Light Water Reactor,Thorium,3525,Operational
+"Miller, Moon and Mcdowell","0719 Tony Cape
+Myersberg, ND 61208","Duncan, Lawrence and Mitchell",1820,2023-03-06,Pressurized Water Reactor,Light Water Reactor,Uranium,4570,Operational
+Rowe LLC,"880 Butler Causeway
+Sloanchester, VA 35150",Johnson Inc,706,1999-03-01,Fast Breeder Reactor,Light Water Reactor,Thorium,1749,Under Construction
+Garcia-Simmons,"3175 Katelyn Centers Suite 782
+Harveyberg, VA 30169","Brown, Esparza and Patterson",1809,2015-10-05,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4240,Under Construction
+Nelson-Sherman,"298 Lacey Ridges Suite 324
+Port Mary, PR 37208","Wilson, Hoffman and Hernandez",1317,2022-12-01,Boiling Water Reactor,Heavy Water Reactor,Thorium,1958,Under Construction
+Manning-Edwards,"Unit 2070 Box 3955
+DPO AA 45126",Davidson Group,869,2013-10-01,Boiling Water Reactor,Light Water Reactor,Uranium,1044,Under Construction
+"Hernandez, Hanna and Bradley","10813 Schmidt Brook Apt. 077
+New Diane, MD 53449",Vazquez-Williams,1345,2012-10-12,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2829,Decommissioned
+Wilson-Huff,"705 Heather Estates
+Jameschester, MD 09869",Johnson Ltd,851,2008-04-04,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4102,Under Construction
+Martin-Daugherty,"PSC 4282, Box 2095
+APO AP 22352","Craig, Lee and Garcia",900,1999-08-20,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1436,Operational
+Franklin Group,"2214 Steven Fall Suite 511
+West Pamelabury, MH 91607",James Ltd,1725,2008-04-04,Fast Breeder Reactor,Light Water Reactor,Plutonium,1817,Decommissioned
+"Holt, Garcia and Simpson","299 Kelly Dam Apt. 832
+Huntview, GA 77487","Butler, Hunter and Sanchez",1872,2017-09-29,Boiling Water Reactor,Heavy Water Reactor,Uranium,4344,Under Construction
+Carter-Davis,"312 Tony Plaza Suite 984
+South Patriciaborough, IL 10696","Ward, Marquez and Jones",1073,2008-08-30,Fast Breeder Reactor,Light Water Reactor,Plutonium,2349,Under Construction
+Callahan-Rich,"4377 Mitchell Lock
+Combsstad, IA 93807","Gonzalez, Hill and Edwards",1772,2007-05-06,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4671,Decommissioned
+Jimenez-Hernandez,"105 Andrew Radial Suite 071
+West Ernest, IA 41775",Morton-Wilkins,1390,2001-02-19,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2565,Under Construction
+Wall-Martinez,"85675 Ashley Lights
+Fergusonchester, MP 03433",Shelton and Sons,1573,2012-11-21,Boiling Water Reactor,Heavy Water Reactor,Uranium,4326,Under Construction
+"Wright, Lynch and Williams","69110 Holder Radial Suite 465
+Robertville, NC 91264",Brown-Simpson,1284,1996-04-25,Boiling Water Reactor,Light Water Reactor,Thorium,3267,Decommissioned
+"Wilson, Bradshaw and Roberts","82968 Harris Trail Suite 231
+Laurahaven, RI 16435",Stone-Hunt,1135,2010-08-20,Pressurized Water Reactor,Light Water Reactor,Thorium,4455,Under Construction
+Smith-Miller,"243 Castro Lane
+Bradleyburgh, IL 63320",White LLC,717,2021-10-24,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1012,Operational
+Cook-Williamson,"561 James Wells Suite 544
+Wendyton, VA 55012",Wilkinson-Proctor,1521,2006-05-18,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1639,Operational
+Leblanc-Avery,"316 Alicia Port Suite 064
+North Gregory, WI 64893",Vincent-Diaz,1207,2018-03-25,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4262,Under Construction
+"Wilson, Velez and Cruz","4774 Barron Brook Apt. 620
+West William, GU 95831","Schroeder, Guerrero and Lamb",1377,2023-06-17,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3112,Operational
+"Scott, Galvan and Blankenship","516 David Trail
+West Jerry, VT 65792",Moore and Sons,1442,2006-08-27,Fast Breeder Reactor,Light Water Reactor,Thorium,2548,Operational
+"Cole, Turner and Thomas","859 Snyder Isle
+North Ryan, PR 62608","Orr, Patrick and Diaz",1986,2006-06-22,Fast Breeder Reactor,Light Water Reactor,Thorium,2128,Under Construction
+"Estrada, Cox and Owens","850 Mark Inlet Apt. 675
+Lake James, MO 70701",Carter-Luna,1622,2022-03-27,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2448,Operational
+"Henderson, Martinez and Larson","05320 Katie Shores Suite 420
+Johnchester, DC 83581",Woods-Miranda,645,2000-03-03,Fast Breeder Reactor,Light Water Reactor,Thorium,2680,Under Construction
+Ruiz PLC,"90722 Figueroa Lock
+Kylestad, HI 71264",Lopez-Holt,725,2017-07-10,Pressurized Water Reactor,Light Water Reactor,Uranium,2853,Decommissioned
+"Horton, Gardner and Matthews","113 Patrick Mews
+New Shannonton, CA 97361",Jones-Harmon,902,2021-12-07,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1690,Decommissioned
+Hunter-Burke,"283 Thompson Prairie Suite 496
+Lake Erinmouth, MN 71439",Cabrera and Sons,1195,2002-05-23,Boiling Water Reactor,Light Water Reactor,Uranium,1949,Under Construction
+"Kim, Fernandez and Bailey","773 Tyrone Flats
+Thompsonview, NY 42709",Walker Inc,817,2010-05-06,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1652,Decommissioned
+Day-Flores,"0119 Kristi Junctions
+Port Andrew, HI 52593",Clark-Stanton,1399,2009-03-12,Fast Breeder Reactor,Light Water Reactor,Uranium,2615,Operational
+"Lewis, Gross and Smith","552 Walsh Unions Suite 369
+New Nancy, PA 38086",Graves-Hughes,660,2015-03-09,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4780,Decommissioned
+Mcguire-Robinson,"217 Ford Glen
+Freemanland, FM 98858",Lewis Ltd,1853,2000-10-15,Boiling Water Reactor,Heavy Water Reactor,Thorium,1067,Decommissioned
+"Osborne, Foster and Rogers","213 Anderson Stream Apt. 599
+Lisafort, AS 21921","Bowen, Davis and Cowan",720,2023-01-18,Fast Breeder Reactor,Light Water Reactor,Thorium,3194,Operational
+"Miller, Lam and Diaz","87218 Oliver Forges
+Kathleenport, MD 82509",Campbell-Mayo,1771,2000-02-16,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4339,Operational
+Tapia-White,"PSC 2374, Box 6521
+APO AP 31166",Garcia-Prince,1133,2009-07-22,Fast Breeder Reactor,Light Water Reactor,Uranium,4832,Decommissioned
+Bell-Fox,"3679 Brandy Bypass Apt. 052
+Lake Lesliemouth, WI 13349",Avila LLC,648,2008-03-26,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4702,Operational
+Newman-Martinez,"30691 Chandler Mountains Suite 855
+Romerohaven, RI 46619",Smith-Hall,1367,2016-08-11,Fast Breeder Reactor,Light Water Reactor,Plutonium,2389,Under Construction
+Hahn-Curtis,"0618 Ross Centers
+Port Michaelville, PR 00508",Melendez-Moore,750,2010-03-13,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2409,Operational
+Hoffman LLC,"62597 Christina Plains
+Port Sarah, NC 07358",Hoffman-Cohen,677,2010-07-25,Fast Breeder Reactor,Light Water Reactor,Uranium,3350,Decommissioned
+"Munoz, Willis and Barnes","97998 White Plaza
+Port Michelleport, NH 62192",Flores-Vasquez,680,2006-09-07,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4164,Operational
+Gomez-Neal,"8441 Brandon Inlet Suite 582
+Kathleenport, IL 74830",Rogers-Nichols,1205,2017-12-30,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3292,Under Construction
+Johnson-Martin,"37724 King Mission
+Lake Scottview, SC 01573",Mcgee-Ross,1027,2020-10-10,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2491,Operational
+Wheeler-Miller,"PSC 6762, Box 0828
+APO AA 62287","Clark, Lynn and Moore",1713,2007-10-18,Fast Breeder Reactor,Light Water Reactor,Plutonium,1639,Decommissioned
+Lane-Peterson,"583 Dickson Squares Suite 624
+Lake Jasonhaven, WY 31620",Jones PLC,1386,2011-03-15,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1282,Operational
+"Collins, Casey and Guzman","USS Hernandez
+FPO AA 39862",Jackson-Sanders,900,2001-08-01,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1089,Decommissioned
+"Burton, Williams and Skinner","84379 Tiffany Oval Suite 198
+North Dean, MS 14250",Marsh-Wagner,775,2013-01-21,Fast Breeder Reactor,Light Water Reactor,Plutonium,3134,Operational
+Schmitt-Browning,"741 Sandra Parkway Apt. 380
+North Heather, MI 44647",Taylor-Ramirez,873,1995-03-16,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1603,Operational
+Douglas-Johnson,"01687 Joseph Prairie
+Fowlerburgh, AZ 01290",Casey LLC,553,1999-05-25,Boiling Water Reactor,Heavy Water Reactor,Thorium,1737,Decommissioned
+"Smith, Cole and Shelton","38815 Jones Extensions
+East Aaronport, VI 26070",Harris LLC,1290,2011-10-21,Boiling Water Reactor,Light Water Reactor,Thorium,1213,Under Construction
+Baker PLC,"64263 William Terrace
+New William, FM 10699",Thomas-Hernandez,673,2008-12-29,Fast Breeder Reactor,Heavy Water Reactor,Uranium,2245,Operational
+Kelly Group,"65897 Deleon Rapid
+Perkinsshire, MA 14732","Schultz, Thompson and Sanchez",868,2022-03-11,Fast Breeder Reactor,Light Water Reactor,Plutonium,1495,Under Construction
+"Wall, Miller and Fisher","621 Lisa Ridges
+West Jessicaside, KS 29988","Robinson, Banks and Baker",1997,2011-02-18,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2748,Under Construction
+"Davis, Harris and Reed","75488 Brown Dale Apt. 533
+Lake Sherryside, VT 83041","Guzman, Long and Knight",1631,2015-05-14,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1577,Under Construction
+Lozano-Wright,"4632 John Pass Suite 839
+New Crystalburgh, WV 29544",Charles-Harmon,601,1995-04-28,Boiling Water Reactor,Heavy Water Reactor,Thorium,4824,Decommissioned
+"Michael, Ramos and Andrews","129 Terrell Fords
+Port Ambermouth, DE 26139","Armstrong, Boyer and Bullock",668,2002-04-18,Boiling Water Reactor,Heavy Water Reactor,Uranium,1129,Decommissioned
+Cunningham-Graham,"863 Johnny Ranch
+Port Brittany, OH 07938",Guerra-Park,745,2003-05-03,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4453,Decommissioned
+Ellis-Calhoun,"USCGC Edwards
+FPO AE 73407","Brown, Galvan and Cherry",1317,2003-05-06,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1628,Operational
+Davis LLC,"93928 Matthew Garden
+New Scott, AZ 34874",Carlson Inc,1757,2014-10-15,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1825,Decommissioned
+Gonzales and Sons,"121 Melissa Fall Suite 321
+Markborough, MI 29491","Smith, Wood and Cook",1951,2021-11-28,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1979,Decommissioned
+"Mcdowell, Velasquez and Mcdaniel","PSC 5210, Box 1449
+APO AE 77345",Boone-Price,824,2023-04-07,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4481,Under Construction
+Oneill LLC,"85178 West Roads Suite 784
+Anthonyhaven, MH 80976","Barnes, Howard and Anderson",968,2023-07-18,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1191,Under Construction
+Cooley-Parker,"9158 Garcia Street
+North Jeffrey, WA 22253","Peters, Pineda and Fernandez",986,2004-06-27,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4487,Under Construction
+Juarez-Mccormick,"822 Taylor Station Apt. 352
+Lake Justin, MA 27088","Pratt, Davis and Richardson",1443,2015-12-15,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3783,Decommissioned
+"Phillips, Conrad and Franco","4031 Lee Mountain Suite 164
+Cooperfurt, NC 47401",Richardson-Johnson,981,2015-04-22,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1728,Decommissioned
+Howe Inc,"00067 Tyler Run
+Port Heatherhaven, MI 28521","Peters, Allen and Richardson",623,2006-02-15,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1332,Decommissioned
+Robinson-Sanchez,"030 Watson Common
+New Wendy, DE 25476",Harris Inc,1203,2022-08-26,Boiling Water Reactor,Light Water Reactor,Uranium,2393,Operational
+Armstrong Group,"45738 Shawn Street
+Lake Brian, PA 75247","Peterson, Smith and Smith",1914,2010-07-14,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3280,Decommissioned
+"Rodriguez, Scott and Reyes","1729 Osborne Passage
+Carrollshire, ND 17621","Benitez, Mejia and Valenzuela",1253,2017-08-10,Pressurized Water Reactor,Light Water Reactor,Uranium,2197,Under Construction
+"Ramos, Singh and Sims","1098 Vargas Stream Suite 888
+Santanaview, OK 31828",Wagner and Sons,849,2001-03-16,Boiling Water Reactor,Light Water Reactor,Uranium,3132,Under Construction
+"Mendoza, Rogers and Johnson","623 Escobar Ranch
+Lake Sarahport, PW 23113",Hall Inc,613,2016-02-08,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2252,Operational
+Miller-Garcia,"80883 Hodge Brooks Suite 465
+New Brenda, WA 88259","Hodges, Smith and Cherry",1832,2014-07-28,Pressurized Water Reactor,Light Water Reactor,Uranium,2710,Decommissioned
+Nguyen-Bryant,"22753 Thompson Walks Suite 259
+Tonystad, IA 19517",Cantrell-Cunningham,654,2001-12-06,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4490,Decommissioned
+Clark PLC,"USCGC Robertson
+FPO AA 06107",Mack PLC,1762,2011-05-18,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2183,Operational
+Moore and Sons,"979 Dustin Roads
+East Andrea, WI 96823","Ramirez, Todd and Paul",1754,1998-01-06,Boiling Water Reactor,Heavy Water Reactor,Uranium,2334,Operational
+Martinez LLC,"22948 Peterson Wells Suite 439
+Taylorland, OR 75547",Alvarez PLC,1262,2018-04-26,Fast Breeder Reactor,Light Water Reactor,Uranium,1579,Decommissioned
+"Richards, Hill and Henderson","688 Smith Passage Suite 098
+Stevenbury, NM 41872","Brown, Michael and Williams",967,2008-11-08,Boiling Water Reactor,Heavy Water Reactor,Uranium,2275,Operational
+Taylor Ltd,"09677 Mcdonald Lights
+Veronicaborough, OK 20569",Anderson LLC,588,2002-04-17,Pressurized Water Reactor,Light Water Reactor,Plutonium,4348,Operational
+"Nichols, Ashley and Wong","2822 Vaughn Points Suite 567
+Perezberg, WI 66193","Jackson, Hopkins and Haynes",1615,2005-01-05,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3529,Decommissioned
+"Johnson, Dillon and Moreno","4263 Christine Square
+New Christopherview, MS 14122","Myers, Washington and Lee",1328,2002-11-11,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1804,Decommissioned
+Newton LLC,"038 Johnston Fork
+South Anne, WA 52445",Jones-Burnett,1478,1995-02-21,Boiling Water Reactor,Light Water Reactor,Thorium,2740,Operational
+"Stout, Patel and Glover","231 Swanson Summit
+West Amy, DE 44945","Khan, Rich and Powers",811,2022-08-12,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1560,Decommissioned
+Watson-Valenzuela,"8325 Brown Motorway
+Lake Gabriel, SD 61933","Smith, Proctor and Austin",1223,2001-07-08,Fast Breeder Reactor,Light Water Reactor,Thorium,3884,Decommissioned
+Noble-Hall,"7738 Lewis Track Suite 537
+East Dustinburgh, NE 96181","Meyer, Collier and Lang",1835,2013-07-31,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2438,Decommissioned
+English-Harris,"744 Joyce Mission Suite 231
+Patriciaberg, PW 73597",Howell-Scott,1211,1997-04-11,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2732,Operational
+Scott-Alexander,"54354 Rivera Lakes Apt. 681
+West Erichaven, KS 81148",Henry PLC,1321,2015-10-05,Pressurized Water Reactor,Light Water Reactor,Thorium,2203,Under Construction
+"Mendez, Wood and Pollard","39013 Moses Cliffs Apt. 245
+South Jamesview, GA 22522","Allen, Burton and Fields",1517,2021-06-08,Fast Breeder Reactor,Light Water Reactor,Plutonium,4365,Operational
+George-Higgins,"847 Christopher Village Apt. 334
+Bennettfort, ID 95027","Green, Lawrence and Matthews",1120,2018-09-23,Pressurized Water Reactor,Light Water Reactor,Thorium,4496,Under Construction
+Hernandez-Harrison,"41585 Steve River Suite 221
+Danielstad, PW 16858","Gonzalez, Harris and Rosario",1079,2010-02-19,Pressurized Water Reactor,Light Water Reactor,Thorium,3297,Under Construction
+Shields-Kelley,"11732 Roberts Neck Suite 476
+South Michaelview, OH 13307","Murray, Rogers and Rodriguez",1029,2011-09-16,Pressurized Water Reactor,Light Water Reactor,Thorium,4249,Under Construction
+Aguilar Ltd,"7527 James Falls Apt. 210
+New Mark, MI 03699","Patel, Hernandez and Ferguson",1506,2006-03-28,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3333,Decommissioned
+Freeman-Livingston,"27454 Marshall Path
+Baileyville, NC 70909","Pugh, Li and Dunn",727,2000-08-17,Fast Breeder Reactor,Heavy Water Reactor,Uranium,2255,Operational
+Miller Inc,"58488 Rodriguez Path
+South Keithchester, NE 34829","Lara, Spencer and Walsh",1404,1999-06-30,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4978,Under Construction
+Walker-Lawrence,"92356 Boyd Isle
+South Robertstad, NE 27719",Mcdonald Ltd,1578,2018-12-26,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2746,Operational
+Scott LLC,"726 Garcia Ways
+East Robert, IL 51228","Simon, Fuller and Stephens",1257,2017-08-06,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3893,Operational
+Nicholson-Jackson,"2577 Dean Inlet Apt. 311
+Samanthafurt, WV 07963",Duke-Mata,926,1996-08-23,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3900,Decommissioned
+"Anderson, Franklin and Barber","53474 William Stravenue
+South Teresa, MT 06220",Medina Group,963,2003-10-14,Pressurized Water Reactor,Light Water Reactor,Plutonium,1752,Under Construction
+"Chavez, Hill and Andrews","01793 Weeks Junction
+East Ellenburgh, NE 20963",Bond Group,1007,1999-12-05,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1798,Under Construction
+Perez Group,"43455 David Underpass
+Josephborough, WV 53042",Tran-Elliott,538,2008-07-12,Fast Breeder Reactor,Light Water Reactor,Uranium,4742,Operational
+Roberts Inc,"176 Martin Garden
+Jacksonside, ND 12653",Griffin-Bailey,1537,1998-12-04,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2810,Operational
+"Hall, Shah and Vincent","8695 Jessica Junction Suite 165
+Lake Donna, VT 11177",Miller Group,1358,2000-08-08,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2302,Operational
+Johnson-Morrison,"555 Marshall Radial Apt. 484
+West Tamarafurt, CO 30893",Meyer and Sons,1193,2002-09-28,Fast Breeder Reactor,Light Water Reactor,Plutonium,4915,Under Construction
+Carney Ltd,"Unit 2682 Box 3993
+DPO AP 32692","Garcia, Mack and Schultz",1222,1995-12-16,Boiling Water Reactor,Light Water Reactor,Thorium,3076,Operational
+Henderson-Velasquez,"115 Jacqueline Keys
+North Garrettshire, MO 86634","Bradshaw, Clark and Hanna",1934,1996-01-22,Boiling Water Reactor,Light Water Reactor,Thorium,3619,Operational
+"Bailey, Smith and Hansen","908 Victoria Street Apt. 172
+Port Johnfort, CO 23859",Garcia Inc,1454,1999-08-10,Fast Breeder Reactor,Light Water Reactor,Uranium,3285,Decommissioned
+Jenkins LLC,"52009 Williams Shoals
+North Andrea, MP 88222",Hopkins LLC,1065,2001-01-15,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2874,Under Construction
+"Anderson, Baker and Snow","28405 Joyce Highway Suite 937
+Port Melinda, WA 70142",Oliver Inc,1431,2011-04-30,Boiling Water Reactor,Heavy Water Reactor,Thorium,3441,Under Construction
+Harris-Love,"10967 Susan Track
+Coreyborough, IL 99269","Mullins, Ramirez and Chan",1159,2003-09-18,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4850,Under Construction
+"Johnson, Tapia and Harmon","79426 Seth Coves
+Elliottbury, WI 76015","Marquez, Henry and Campbell",559,2003-06-22,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1985,Decommissioned
+"Paul, Miller and Hale","801 Steele Mall
+Jimenezberg, TX 96377","Lloyd, Stewart and Jones",1320,2017-11-14,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2907,Under Construction
+Murphy Ltd,"382 Johnny Overpass
+South Davidfort, TX 23208","Anderson, Briggs and Garcia",1918,2022-12-14,Boiling Water Reactor,Light Water Reactor,Thorium,4591,Under Construction
+Moss Ltd,"821 Cooper Plains
+Lake Sandraport, NM 74685",Gomez and Sons,1437,2009-04-04,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2233,Under Construction
+Haas Group,"407 Lee Locks
+North Phillipland, MH 98590","Hopkins, Taylor and Roberts",1787,1998-05-25,Boiling Water Reactor,Heavy Water Reactor,Uranium,4755,Operational
+King-Young,"937 Clay Stream
+Wilsonberg, PA 45469",Sandoval-Hernandez,1224,2018-09-08,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4398,Under Construction
+Fletcher LLC,"032 Kurt Via
+Cindyview, AR 09356",Wright-Roberts,1396,2007-05-21,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3182,Under Construction
+Rodriguez-Ellis,"113 Mayo Lights
+New Thomas, WV 07509",Brown-White,1348,2015-06-06,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2622,Decommissioned
+"Mccormick, Foster and Davidson","19627 Cole Garden Apt. 015
+Lake Annside, SD 85816",Pierce-Barnes,625,2015-09-03,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1602,Under Construction
+Sosa-Hernandez,"Unit 8774 Box 8155
+DPO AP 76924",Ho and Sons,1659,2002-07-15,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2900,Operational
+Wagner Inc,"51791 Smith Green
+Christopherhaven, IA 49284",Evans Ltd,1207,2018-08-17,Pressurized Water Reactor,Light Water Reactor,Plutonium,3475,Under Construction
+"Stevenson, Cooley and Estrada","0157 Lucas Village Apt. 210
+Brianberg, FL 88071",Hall Ltd,1803,2005-08-04,Pressurized Water Reactor,Light Water Reactor,Uranium,4384,Operational
+"Conway, Long and Johnson","245 Lucas Station Suite 842
+South Nicholasside, MI 38184",Cunningham-Russell,1252,2016-02-28,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4357,Under Construction
+Powell PLC,"142 Laurie Circles
+Lake Angela, WI 28477",Pugh-Torres,1786,2002-07-09,Boiling Water Reactor,Light Water Reactor,Thorium,3091,Under Construction
+King Group,"1281 Floyd Course
+Tateborough, MO 43058",Gray-Moreno,1345,2010-11-11,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3756,Operational
+Myers LLC,"9494 Henry Corner Apt. 478
+Justinmouth, KS 84941",Stuart Group,1159,2000-11-08,Fast Breeder Reactor,Light Water Reactor,Thorium,2889,Operational
+Sanders Ltd,"157 James Greens Apt. 231
+Ashleyfurt, MT 30899",Ayala-Walton,1102,2021-12-29,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4714,Operational
+Becker-Foley,"67532 Woods Well
+Whitestad, MI 13681","Johnson, Hubbard and Johnson",1901,2001-11-05,Boiling Water Reactor,Heavy Water Reactor,Thorium,4212,Decommissioned
+Turner-Douglas,"97827 Torres Bridge
+Port Bethland, AR 55645","Johnson, Blanchard and Banks",1524,2007-05-31,Boiling Water Reactor,Light Water Reactor,Uranium,3366,Decommissioned
+Mitchell-Lane,"857 Renee Hollow
+Hallfurt, WV 54064","Hall, Wolfe and Monroe",694,2002-05-07,Boiling Water Reactor,Heavy Water Reactor,Uranium,1401,Decommissioned
+Kelly-Morgan,"0119 David Spurs
+Lake Ronaldton, KS 37801",Greene-Wilson,1137,2017-04-01,Pressurized Water Reactor,Light Water Reactor,Plutonium,4050,Decommissioned
+Hutchinson Group,"Unit 2562 Box 2229
+DPO AP 18974",Lopez and Sons,1334,2019-01-21,Fast Breeder Reactor,Light Water Reactor,Plutonium,2704,Under Construction
+Oconnor and Sons,"4096 Samantha Pines
+Hopkinschester, CO 41640",Galloway-Cochran,1684,2017-09-20,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2185,Under Construction
+Glenn-Terry,"32261 Tony Loaf
+Draketown, MP 17043",Rivas and Sons,510,1994-07-30,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1020,Operational
+"Davis, Holland and Lewis","11243 Michael Crossing Apt. 462
+Ashleeview, AL 22399",Logan Inc,898,2011-06-15,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4045,Decommissioned
+Nielsen Inc,"2681 Bryant Lock Apt. 645
+Lake Jason, RI 75048",Bowman and Sons,628,2013-03-11,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4070,Operational
+Garrett-Love,"253 Aaron Inlet Apt. 686
+Velezborough, MT 10087",Fletcher-Finley,504,2019-02-13,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2223,Decommissioned
+Blankenship PLC,"6979 Henson Wall Apt. 003
+Port Elizabeth, MS 75783","Bradford, Novak and Harris",861,1994-07-29,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3963,Operational
+Carpenter-Richards,"241 Jacob Vista
+North Audreyton, SC 54598",Smith-Flores,1814,2023-12-05,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2348,Operational
+"Johnson, Huber and Wilson","736 Kim Ranch
+Wadefort, PW 02569",Myers-Torres,713,2005-07-18,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4136,Under Construction
+Carr Ltd,"6068 Schmidt Walk
+South Nancychester, SC 87071",Foster-Bradford,1463,2003-10-20,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4099,Under Construction
+"Adams, Gutierrez and Jones","66381 Johnston Camp Apt. 697
+North Toddside, NH 54933",Murray-Pratt,1241,2023-02-28,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2259,Under Construction
+Mcbride-Nguyen,"8088 Waters Loop
+New Karenburgh, FL 97614",Bowman Inc,1234,1996-06-19,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2311,Operational
+"Valencia, Bell and Daniel","5896 Anderson Haven Suite 081
+Barbaramouth, PW 11597","Watkins, Forbes and Wilson",846,2000-04-06,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2737,Decommissioned
+"Velasquez, Bennett and Hoover","35891 Lindsey Bridge
+East Garyfurt, HI 14258",Lamb and Sons,1632,2013-07-31,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2269,Decommissioned
+"Murray, Herrera and Stewart","1143 Morris Harbors
+Crawfordville, CO 59621",Chang-Reeves,1647,2014-01-01,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1081,Under Construction
+Strong Group,"82306 Baldwin Crossroad Suite 535
+New Lauren, UT 68332",Diaz-Johnson,681,2006-08-29,Fast Breeder Reactor,Light Water Reactor,Plutonium,2678,Under Construction
+Garcia PLC,"66510 Tara Extensions Suite 172
+Dannyberg, NJ 31769","Mooney, Johnston and Wyatt",1891,2004-04-18,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4966,Operational
+French-Cook,"69301 Joshua Gateway
+New Matthew, MN 49630","Kelley, Robinson and Waters",1734,2001-02-13,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2856,Operational
+"Smith, Vasquez and Kirk","44495 Conley Stravenue Suite 294
+New Jonathan, VT 63032","Harding, Sanders and Blanchard",949,2021-05-05,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4126,Operational
+Campbell-Washington,"7846 Todd Landing
+East Diane, HI 10984","Smith, Ward and French",1718,1995-10-15,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4009,Operational
+Weber-Reese,"78535 Thomas Mill
+South Devinchester, ND 77537",Mcdowell Inc,1062,1999-01-25,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4725,Operational
+"Salazar, Fuentes and Carpenter","19660 Kaiser Mountains Apt. 055
+West Jerry, OR 02677",Reyes-Drake,1074,2011-04-23,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3465,Under Construction
+Hansen Group,"23073 Margaret Forges Suite 436
+Danielshire, VI 92263",Ballard-Medina,1659,1996-04-07,Pressurized Water Reactor,Light Water Reactor,Plutonium,4675,Decommissioned
+"Thomas, Jones and Hall","1243 Goodman Turnpike Suite 580
+Port Kimberly, LA 78976","Franklin, Simmons and Patel",1566,2021-01-18,Boiling Water Reactor,Heavy Water Reactor,Thorium,4538,Operational
+Flores-Cabrera,"6424 Benjamin Shoals Suite 817
+Millsshire, NV 59815",Stevens-Mitchell,879,2014-01-14,Fast Breeder Reactor,Light Water Reactor,Thorium,2222,Operational
+"Simpson, Ward and Dennis","93640 Gregory Views Apt. 376
+West Jamesberg, WA 06199",Perkins-Garcia,1684,2023-06-20,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3536,Decommissioned
+Roach-Garcia,"271 Brown Camp Apt. 994
+New Justin, NY 23692","Ford, Alvarado and Morse",699,2001-10-29,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2561,Operational
+"Gomez, Hinton and Phillips","51032 Joseph Union Suite 890
+Scottmouth, VA 51958",Anderson-Reyes,1609,2014-10-28,Fast Breeder Reactor,Light Water Reactor,Thorium,1783,Decommissioned
+"Moore, Cochran and Evans","Unit 1695 Box 9936
+DPO AA 01283","Dixon, Taylor and Shepard",1794,2023-03-31,Boiling Water Reactor,Light Water Reactor,Thorium,1991,Under Construction
+Jones-Singleton,"56400 Stephanie Crest Suite 475
+Josephton, AR 28324",Ford PLC,1634,2012-12-11,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4767,Decommissioned
+Obrien and Sons,"42023 Janice Extension Apt. 420
+Guyton, MA 80411",Collins-Carter,1297,2009-10-07,Pressurized Water Reactor,Light Water Reactor,Plutonium,1357,Under Construction
+"Ward, Chang and Summers","41761 Christopher Oval
+Cookside, ID 83525","Brown, Johnson and Kelly",893,2004-07-18,Boiling Water Reactor,Light Water Reactor,Uranium,2504,Under Construction
+Morgan PLC,"PSC 4692, Box 8122
+APO AA 29823",Irwin-Lewis,1992,2004-12-28,Pressurized Water Reactor,Light Water Reactor,Plutonium,3252,Decommissioned
+"Murray, Roach and Garcia","3707 Conner Trace
+Adamsland, KS 34587","Mclaughlin, Hunter and Anderson",1241,2008-12-22,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1512,Under Construction
+Green-Smith,"48426 Spencer Ports Apt. 439
+Port Rachel, VT 63208",Smith-Powell,1017,2013-10-17,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4216,Decommissioned
+Brown-Fox,"607 Kelly Flat
+South Elizabethburgh, LA 39904","Harrison, Hines and Dickson",527,2019-02-09,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3583,Operational
+Frederick Group,"Unit 1605 Box 1138
+DPO AE 30182",Wells-Stevens,1710,2014-10-17,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4562,Under Construction
+Johnson-Mcmillan,"94700 Horne Mount
+South Victortown, AK 67918","Fox, Cruz and Wilson",1029,2017-11-15,Boiling Water Reactor,Heavy Water Reactor,Uranium,2938,Under Construction
+Brown-Mays,"43080 Oneill Roads
+Heatherborough, MO 29930",Calderon-Davis,996,2007-08-29,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3501,Under Construction
+Yang-Carroll,"17190 Michelle Gateway Suite 669
+North Elizabethfurt, NH 57997",Callahan-Luna,1136,2022-07-28,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1515,Operational
+"Henderson, Kane and Ross","789 Green Fort
+Boydside, AZ 52796",Flores LLC,553,1997-08-16,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3595,Operational
+Jordan Group,"8164 Monique Circles Suite 724
+Ryanton, PW 21250","Sanchez, Rivera and Brennan",872,2012-01-27,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4855,Under Construction
+"Rice, Williams and Johnson","001 Jennifer Port
+East Angie, AL 67941",Bryant Ltd,1901,1998-07-08,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1084,Under Construction
+"Baxter, Lopez and Hughes","0585 Salazar Turnpike Apt. 746
+Port Tarafurt, AZ 16045",Shepherd and Sons,524,2018-11-05,Boiling Water Reactor,Gas-cooled Reactor,Uranium,4547,Under Construction
+Blake Inc,"00668 Jose Square
+North Darlenechester, CA 77729",Vaughn Group,1181,2012-03-16,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3757,Under Construction
+Dorsey and Sons,"81507 Morales Green Apt. 585
+Timmouth, MD 70120",Long Inc,1537,2000-06-08,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,3899,Under Construction
+Smith and Sons,"500 John Ferry Suite 550
+East Kendraside, ME 76421","Olson, Goodman and Jarvis",954,1998-01-14,Boiling Water Reactor,Heavy Water Reactor,Uranium,2945,Operational
+Rivera-Mcdonald,"7485 Jimenez Junctions
+Lisaside, DC 87778","Schultz, Miller and Johnson",1377,2008-07-06,Boiling Water Reactor,Heavy Water Reactor,Thorium,4847,Decommissioned
+Rogers-White,"14704 Brown Fall
+Lake Jenniferfurt, OH 23082",Wright Group,1531,2012-04-24,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1387,Decommissioned
+Wilson-Martin,"6250 Adam Inlet Apt. 446
+Nelsonport, CT 80341",Robinson LLC,898,2007-12-29,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3291,Operational
+"Williams, Mendoza and Medina","166 Robles Lake
+East Angelamouth, LA 04060",Banks-Day,1920,2004-04-24,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3866,Decommissioned
+Lowe LLC,"613 Morton Lodge
+Stuartstad, KY 52160",Dunn-Walton,1403,2006-03-14,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4271,Decommissioned
+Ware-Murray,"588 Rachel Lakes
+North Shelley, SD 02957",Burgess Group,1994,1999-06-04,Fast Breeder Reactor,Heavy Water Reactor,Uranium,3204,Under Construction
+"Wilson, Rodriguez and Castaneda","72160 Rasmussen Glens
+Loweryland, TN 03989",Meyer Group,1092,2008-11-30,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4524,Decommissioned
+Flowers-Floyd,"524 Gomez Prairie Suite 649
+Smithville, SC 09739","Richardson, Reed and Bryan",1348,2013-10-08,Boiling Water Reactor,Light Water Reactor,Thorium,3082,Operational
+"Patterson, Wright and Thompson","040 Calvin Causeway
+Faulknerberg, PR 31075",Brown and Sons,1033,2006-03-02,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4911,Operational
+Mack-Gomez,"USNV Kirby
+FPO AA 55294",Wheeler LLC,1637,2019-08-26,Pressurized Water Reactor,Light Water Reactor,Plutonium,4490,Under Construction
+Lawrence Ltd,"4243 Rios Ranch
+North Teresa, FM 87249",Wade-Mcdonald,1223,2022-11-10,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3928,Decommissioned
+Pierce-Castro,"45162 Garcia Expressway
+West Laura, KS 54923",Phillips-Clark,1435,2002-05-27,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3814,Operational
+"Black, Bell and Owens","8279 Hammond Greens
+Jessicaside, AS 55897","Kim, Molina and Navarro",1778,2016-02-28,Fast Breeder Reactor,Light Water Reactor,Plutonium,1159,Decommissioned
+Mitchell PLC,"033 Walters Fork
+Smithside, VI 14049","Schroeder, Grimes and Santana",1757,2019-03-10,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4326,Operational
+Jones-Jones,"232 Cody Road Suite 825
+Rossview, NH 47509","Davis, Atkins and Singleton",1640,1995-06-11,Boiling Water Reactor,Heavy Water Reactor,Uranium,1489,Operational
+Ward-Kane,"9129 Williams Stream Apt. 084
+Mclaughlinport, WA 82302",Robinson PLC,1223,2003-03-17,Boiling Water Reactor,Heavy Water Reactor,Thorium,4755,Decommissioned
+"Bernard, Anderson and Smith","8653 Garcia Greens
+Johnnybury, CA 35018",Arias-Jackson,1956,2021-04-06,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,3278,Operational
+Bass Ltd,"47087 Kelly Causeway
+Maldonadoland, WY 67391","Wade, Armstrong and Johnson",1588,2004-01-16,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3863,Operational
+Murphy-Marshall,"USNS Hendrix
+FPO AA 69292","Olson, Thomas and Whitaker",714,2013-11-15,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4964,Operational
+"Wolf, Wong and Craig","4726 Thompson Forge Apt. 703
+Chandlerport, PA 07555",Roberts-Davis,1694,2009-09-11,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4612,Under Construction
+Collins-Villanueva,"393 Kirsten Neck Apt. 533
+Port Matthewshire, NV 13704",Turner-Miller,692,2014-08-18,Boiling Water Reactor,Light Water Reactor,Thorium,4406,Under Construction
+"Clark, Hensley and Owen","2127 Gavin Keys
+Howellview, NH 60533",Baker-Richard,1867,1998-01-26,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2369,Under Construction
+Fernandez Ltd,"Unit 4003 Box 2251
+DPO AA 25110","Butler, Kennedy and Hess",1601,2007-11-24,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1008,Operational
+Gates Group,"288 Sarah Wells
+New Blakeport, WY 62660","Stewart, Lambert and Howard",980,2005-03-22,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2929,Decommissioned
+"Reyes, Knight and Alexander","USS Benton
+FPO AA 84126",Gonzales and Sons,600,2007-12-27,Boiling Water Reactor,Light Water Reactor,Uranium,4200,Decommissioned
+Snyder-Beltran,"17785 Berger Wells
+Raymondton, WA 19800",Paul Inc,1477,1997-12-07,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2202,Decommissioned
+Barnes-Cole,"5533 Jimmy Knoll Suite 088
+Chelseafurt, ND 17095",James and Sons,1413,2000-09-29,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1253,Decommissioned
+Baker-Browning,"795 Wheeler Cove
+East Brittany, UT 51097",Boyd-Pratt,1497,2017-03-21,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2888,Under Construction
+"Kennedy, Dougherty and Klein","222 Hudson Gateway
+Murrayville, VI 06172",Reed and Sons,964,2014-03-19,Boiling Water Reactor,Light Water Reactor,Uranium,3428,Decommissioned
+Snyder Inc,"5434 Matthew Station
+Port Michelleport, DE 75750",Brown and Sons,974,2002-03-08,Fast Breeder Reactor,Light Water Reactor,Thorium,3992,Decommissioned
+Ho LLC,"570 Russell Junctions
+North Ronald, AZ 31324",Andrews-Gray,1475,1994-10-27,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4106,Operational
+"Bennett, Ingram and Lopez","2900 Vanessa Plaza Apt. 541
+Paulton, SD 62917",Fields-Young,657,2015-03-23,Fast Breeder Reactor,Light Water Reactor,Thorium,3301,Decommissioned
+Hayes-Wright,"56891 Jackson Passage Suite 696
+Jacobville, IN 05853","Obrien, Woods and Johnson",1547,2017-10-12,Boiling Water Reactor,Light Water Reactor,Thorium,4675,Operational
+"Hayes, Vincent and Jackson","USS Thomas
+FPO AA 35216",Jacobs-Chan,553,2023-03-03,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2570,Operational
+"Johnson, Foster and Beasley","96243 Thompson Avenue Suite 667
+South Robert, NJ 78077",Lamb Ltd,1329,2008-08-16,Boiling Water Reactor,Light Water Reactor,Plutonium,3421,Under Construction
+"Olson, Buchanan and Sanchez","662 Gonzales Streets
+Conradstad, KS 95074","Walker, Larson and Baker",580,1996-07-10,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3274,Under Construction
+"George, Stewart and Santiago","400 Kenneth Streets Apt. 956
+South Erikmouth, WI 66418","Pena, Cohen and Yu",1440,2008-02-03,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2887,Operational
+"Jones, Floyd and Webb","5288 Jones Fords
+Port Veronica, ND 67578",Kim PLC,1206,2003-02-10,Boiling Water Reactor,Heavy Water Reactor,Uranium,4803,Operational
+"Larson, Long and Smith","5381 Velez Skyway
+Williamsfort, AL 16320","Reed, Baker and Howard",1156,1994-05-14,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4307,Decommissioned
+"Lloyd, Wilson and Anderson","11805 John Circles
+Sellersmouth, AR 49342",Park Ltd,877,1999-08-03,Boiling Water Reactor,Heavy Water Reactor,Thorium,4277,Decommissioned
+"Thomas, Kelley and Lutz","013 Davis Way
+Hammondshire, FL 64371",Ellis Group,823,2005-08-31,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1804,Decommissioned
+Hansen-Taylor,"84220 Lisa Estates
+New Jenny, WA 01335",Adkins Group,894,2019-08-12,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3209,Under Construction
+Mcpherson Ltd,"67895 Kimberly Rapid Apt. 071
+Griffinshire, TN 97243",Brown-Smith,1848,1997-02-23,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4324,Under Construction
+Mcfarland and Sons,"593 Morton Village
+South Melanie, IL 69072",Kelley and Sons,1870,2021-03-27,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,1584,Under Construction
+"Perry, Williams and Bailey","47622 Chad Keys Suite 001
+Websterhaven, IN 35277","Mitchell, Henson and Hull",1563,2014-01-30,Pressurized Water Reactor,Light Water Reactor,Uranium,3301,Decommissioned
+Scott-Zimmerman,"377 Rachel Harbor
+Port Juanshire, ME 45718",Hansen-Smith,1148,2021-08-03,Fast Breeder Reactor,Light Water Reactor,Uranium,1596,Decommissioned
+Myers-Wagner,"754 Charlene Mission Suite 306
+New Reneeside, MI 82669",Brown-Smith,1204,2005-12-24,Boiling Water Reactor,Heavy Water Reactor,Uranium,4366,Operational
+Taylor Inc,"PSC 6998, Box 4935
+APO AA 57243","Reeves, Kim and Duran",1594,2008-04-09,Pressurized Water Reactor,Light Water Reactor,Uranium,2173,Under Construction
+Cooper Inc,"571 Sheila Glen
+Melanieburgh, CT 63189",Baker-Frye,1082,2001-09-02,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3734,Decommissioned
+"Brown, Ramirez and Shaw","15982 Ronald Creek
+Yangstad, CA 57517",Crawford Group,1032,2002-07-10,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4723,Operational
+"Solis, Henry and Wallace","Unit 8817 Box 8359
+DPO AA 79439",Turner-Newton,1882,1999-05-21,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2999,Decommissioned
+Ford-Mccarthy,"464 Adams Centers
+Port Daniel, MN 54213",Schaefer PLC,1294,2013-07-02,Boiling Water Reactor,Heavy Water Reactor,Thorium,1939,Operational
+Smith and Sons,"1829 Schultz Cliffs Suite 290
+East Michael, AS 38598",Mendoza-Garcia,1406,2004-06-29,Boiling Water Reactor,Light Water Reactor,Uranium,4689,Decommissioned
+Farmer-Pratt,"21976 Miller Crescent Suite 161
+Hicksborough, GA 59260","Patterson, Brock and Baker",1480,1994-03-24,Pressurized Water Reactor,Light Water Reactor,Uranium,1952,Operational
+Compton LLC,"508 Michelle Curve
+North Andrew, MD 99570","Dunlap, Mcpherson and Woodward",704,2002-07-09,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1675,Operational
+"Medina, Conley and Garza","Unit 4664 Box 9077
+DPO AA 62301","Burns, Moon and Adams",1645,2021-09-06,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3378,Operational
+Graham Inc,"14559 Spencer Crest
+Perezfort, AR 74501",Castaneda-Ellis,851,2002-11-26,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1163,Under Construction
+"Anderson, Rodriguez and Clayton","7633 Moore Viaduct
+Jasonland, CT 98975","Martin, Griffin and Salazar",970,1995-03-27,Boiling Water Reactor,Heavy Water Reactor,Uranium,1660,Operational
+"Curtis, Jones and Austin","459 Nicholas Summit
+Donnachester, SD 37108","Turner, Curtis and Wilcox",1346,1999-03-11,Boiling Water Reactor,Light Water Reactor,Thorium,1077,Operational
+Lambert-Wade,"43738 Braun Lodge
+Shepherdborough, SC 47350",Russell-Estes,1367,2000-07-04,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4711,Operational
+Fritz-Reyes,"74056 Olson Fort
+Christopherburgh, NE 29606",Simon-Washington,983,1997-12-25,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4662,Decommissioned
+"Martinez, Burgess and Cohen","58645 Phyllis Roads Suite 726
+North Tiffany, AL 78144","Williams, Daniel and Garcia",1610,1996-05-08,Pressurized Water Reactor,Light Water Reactor,Thorium,2273,Operational
+"English, Phillips and Brown","928 Krause Crescent Suite 483
+New Rhonda, AZ 06627",Williams-Daniels,1075,2002-10-17,Pressurized Water Reactor,Light Water Reactor,Thorium,2531,Under Construction
+Villanueva-Zamora,"578 Graham Corners Suite 096
+South Andrew, CO 42702",Butler and Sons,583,2003-03-26,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4243,Under Construction
+Morgan-Monroe,"8361 Deleon Place
+West Heathershire, FM 89264",Weiss-Jackson,1482,2018-11-16,Fast Breeder Reactor,Light Water Reactor,Uranium,4501,Decommissioned
+"Hernandez, Ballard and Conley","49544 Harris Street Suite 892
+Thomasview, MP 21288",Wilson-Gomez,1730,2022-03-31,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,2975,Under Construction
+Jennings-Warren,"68126 Kylie Rapids Apt. 678
+West Ricardoton, VA 66014",Mcgrath-Clark,1932,2005-04-18,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4309,Operational
+Carrillo Ltd,"058 Martinez Valleys
+New Ashleyport, MP 51621",Haley-Watkins,510,2008-07-24,Boiling Water Reactor,Light Water Reactor,Plutonium,4042,Decommissioned
+"Moore, Lin and Davis","84462 Leon Inlet Apt. 153
+Morganfort, VA 06041",Brooks-Stark,1154,2003-07-06,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3019,Under Construction
+Potts LLC,"9507 Fitzgerald Green Apt. 025
+Forbeschester, SD 54626",Barnett Inc,628,2007-02-22,Boiling Water Reactor,Heavy Water Reactor,Thorium,3327,Under Construction
+Schmidt LLC,"USS Bennett
+FPO AP 19156",Gomez-Williams,1151,1999-09-09,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3743,Decommissioned
+Saunders and Sons,"857 Aaron Lakes Apt. 755
+Lake Angelaside, ID 02316",Willis and Sons,1451,2003-09-15,Fast Breeder Reactor,Heavy Water Reactor,Thorium,2420,Operational
+Solomon-Morris,"608 Alisha Junction
+Chavezfort, IA 25075","Reilly, Jenkins and Clark",1706,2015-06-29,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3557,Operational
+"Welch, Becker and Campbell","532 Mark Gardens
+Port Taylorton, MI 40940","Morris, Cook and Booker",641,2016-06-04,Pressurized Water Reactor,Light Water Reactor,Plutonium,3958,Decommissioned
+Rogers-Santos,"PSC 1038, Box 9893
+APO AE 15260",Barber-Peters,717,1995-01-14,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,2731,Under Construction
+Shaffer-Dalton,"7645 Nancy Valleys
+Mckenzieville, OK 47758","West, Anderson and Sandoval",914,1996-12-25,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1405,Decommissioned
+Gilmore-Perkins,"38260 Reese Centers Suite 320
+Dianeland, CA 56678","Esparza, Davidson and Rich",686,2016-10-07,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3613,Under Construction
+Mays PLC,"0701 Samantha Lakes
+South Danielle, CT 45453",Meyer Group,1259,2019-01-12,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2711,Decommissioned
+Farrell-Benitez,"297 Lawrence Forks Suite 106
+Nicolestad, NE 34775","Blanchard, James and Thompson",1974,2019-11-20,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1383,Operational
+"Roberts, Patel and Odom","799 Clark Valleys
+West Danaport, PR 88226",Sherman-Welch,719,2018-03-25,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1319,Operational
+"Marshall, Trevino and Smith","0241 Henry Mill
+Spearsland, OH 01730",Hernandez Inc,644,1994-06-18,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2478,Under Construction
+"Glover, Rodriguez and Estrada","016 Amanda Estate Suite 298
+Rubenbury, MD 84983","Randall, Spencer and Stephenson",1417,2020-11-20,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3262,Operational
+"Conway, Scott and Kramer","07988 Megan Meadow Suite 195
+North Maryfort, VT 22099","Salinas, Terrell and Williams",977,2008-01-16,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4547,Under Construction
+"Christian, Goodwin and Howell","PSC 3142, Box 0261
+APO AP 43120",Rodriguez-Carter,1208,2005-12-31,Pressurized Water Reactor,Light Water Reactor,Plutonium,3245,Operational
+Merritt LLC,"071 Courtney Spring Suite 779
+West Jonathan, PW 19540","Mcgee, Campbell and Newman",1489,2020-08-14,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2296,Operational
+Medina PLC,"00332 Theodore Flats
+North Anthony, VT 55470","Stokes, Lang and Ayers",1479,2023-01-19,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4734,Operational
+Perry and Sons,"611 Garcia Tunnel Apt. 834
+Joeltown, RI 85706","Clark, Reeves and Woods",1983,2010-06-26,Fast Breeder Reactor,Heavy Water Reactor,Uranium,3444,Under Construction
+"Diaz, Francis and Brock","95729 Chen Heights
+East Patricia, PW 62902","Underwood, Fields and Hensley",1950,1997-08-07,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,2315,Decommissioned
+Hawkins and Sons,"9843 Campbell Rest Suite 459
+Sarahside, ID 97746",Jones-Rivera,1179,2003-08-30,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2002,Operational
+Black-Herring,"4682 Young Road Apt. 573
+Barryborough, MT 95477",Smith-Martinez,856,2001-04-23,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,4766,Under Construction
+Buck-Gaines,"59552 Jason Trace
+Port Elizabethton, MP 03160",Cox and Sons,536,2003-09-30,Fast Breeder Reactor,Light Water Reactor,Thorium,3244,Under Construction
+"Thomas, Knapp and Navarro","Unit 3911 Box 8027
+DPO AP 83389",Reed PLC,601,1995-10-22,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4483,Under Construction
+"Phillips, Gross and May","461 Daniel Square Apt. 333
+Barrettport, NJ 28935",Thompson Inc,1880,2017-05-19,Boiling Water Reactor,Heavy Water Reactor,Thorium,4701,Decommissioned
+"Crosby, Evans and Warner","20842 Williams Common
+Anthonyhaven, GU 43644","Johnson, Young and Brewer",1837,2015-04-08,Boiling Water Reactor,Light Water Reactor,Uranium,1569,Operational
+"Johnson, Russell and Maldonado","979 Zhang Mall
+Jonestown, MD 59568","Gonzales, Jones and Hoffman",1005,1996-08-30,Fast Breeder Reactor,Light Water Reactor,Plutonium,2521,Operational
+"Bennett, Fry and Martinez","644 Smith Inlet
+Port Ashley, VI 65434",Mitchell PLC,1860,2014-09-01,Fast Breeder Reactor,Light Water Reactor,Uranium,2884,Decommissioned
+"Thomas, Montgomery and Gentry","26162 Davis Inlet
+Jacksonland, MD 74901",Jones Group,1008,2016-05-08,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3553,Under Construction
+Benson-Li,"USNV Jordan
+FPO AP 15200","Flores, Powers and Stephens",1571,1996-12-31,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1707,Operational
+"Carson, Taylor and Horne","USNV Jordan
+FPO AE 89088","Smith, Anderson and Anderson",673,2000-09-01,Boiling Water Reactor,Gas-cooled Reactor,Uranium,3767,Under Construction
+"Bowen, Vasquez and Anderson","3146 Jennifer Gateway Suite 082
+Garyville, NH 47297",Barnett-Clay,871,2003-02-11,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4390,Operational
+"Greene, Powers and Shaw","3026 Hayley Square Apt. 412
+South Dorothychester, UT 83301","Holland, Walsh and Lewis",533,2016-03-24,Fast Breeder Reactor,Light Water Reactor,Uranium,4395,Under Construction
+Mcdonald-Nelson,"41309 Rodriguez Unions Apt. 527
+Hoffmanview, GA 63484",Johnson Ltd,1781,2023-01-03,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,3384,Decommissioned
+"Rodriguez, Knapp and Mccarthy","525 Murray Lake
+New Lindsey, MD 56130",Brewer Group,1972,2006-05-31,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3039,Decommissioned
+"Green, Anderson and Chandler","064 Wallace Dam
+Russoberg, IL 48505",Thomas-Copeland,1187,1999-02-13,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1265,Decommissioned
+"Trujillo, Harmon and Higgins","57490 Trevor Ranch
+Gilesstad, WV 23959",Vega-Lee,934,1994-08-28,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1738,Under Construction
+"Rangel, Bell and Patel","63429 Duffy Land
+North David, MD 81751",Torres-Simpson,1793,2011-07-15,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3107,Operational
+Jenkins-Holmes,"18481 Lisa Ridge
+South Eric, CO 06794",Smith-Gregory,1643,2005-01-12,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4796,Operational
+Cantu Inc,"006 Mejia Well
+Tylerburgh, SC 57562",Knight-Thomas,795,2020-02-17,Boiling Water Reactor,Light Water Reactor,Plutonium,3847,Decommissioned
+Carroll-Davis,"9281 Koch Passage
+Aaronbury, TX 64917","Carson, Harvey and Fuller",1360,2018-04-18,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1890,Under Construction
+"Huang, Smith and Tran","16740 Morrison Turnpike
+Lake Joshua, MH 88480","Owens, Garcia and Ramirez",930,2001-08-15,Boiling Water Reactor,Light Water Reactor,Thorium,3839,Under Construction
+Carroll-Little,"68388 James Falls Suite 503
+Emilymouth, WY 24130",Floyd LLC,1090,2010-09-04,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1533,Operational
+Smith-Tran,"23650 Lance Village Suite 088
+Swansonbury, OK 50710",Brown-Wright,1182,2004-07-29,Pressurized Water Reactor,Light Water Reactor,Uranium,1736,Decommissioned
+Terry-Benjamin,"Unit 6067 Box 5513
+DPO AE 41081",Wood LLC,629,1999-03-20,Pressurized Water Reactor,Light Water Reactor,Thorium,4317,Decommissioned
+"Murphy, Rice and Walker","42586 Obrien Fort
+Port Hannahfort, MP 89012","Johnson, Kennedy and Jones",704,2015-11-28,Boiling Water Reactor,Light Water Reactor,Thorium,1279,Decommissioned
+"Blevins, Beck and Davis","794 Hanson Locks Suite 601
+Garciachester, AR 96045",Smith-Wilson,1116,2001-03-18,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4548,Under Construction
+Brooks-Leach,"1928 Washington Square Suite 865
+Cameronberg, NE 77186","Warner, Cuevas and Campbell",949,2011-12-01,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4757,Operational
+"Rhodes, Mcclure and Hunter","572 Roy Drives Suite 311
+North Michael, MS 52844",Stevenson-Murray,1977,2020-02-16,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1545,Under Construction
+"Wells, Thomas and Alvarez","2067 Trujillo Motorway Suite 016
+Stevensburgh, KY 66838","George, Walker and Koch",1793,2005-01-14,Pressurized Water Reactor,Light Water Reactor,Thorium,3746,Operational
+Gross-Nelson,"387 Katherine Course Apt. 787
+Stevenland, UT 15049","Phillips, Day and Ball",1870,2020-08-13,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1983,Operational
+Santiago-Crawford,"7460 Franco Overpass
+Jamieview, KY 45177",Carter Ltd,528,2000-11-12,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2877,Under Construction
+Taylor-Cox,"94566 Butler Mill Suite 881
+Ramirezstad, VT 64516",Wallace-Cooper,884,2010-08-21,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1308,Under Construction
+"Potter, Bailey and Moore","0663 Kramer Street Apt. 786
+South John, SD 34479",Spencer-Yang,735,2017-12-31,Pressurized Water Reactor,Light Water Reactor,Plutonium,1600,Decommissioned
+Montoya PLC,"788 Hunter Gateway
+Port Nicoleberg, AL 86193",Strong-Davis,1860,2017-04-29,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4336,Decommissioned
+Hawkins Group,"6893 Joseph Court
+East Tinaburgh, WI 24042","Mueller, Simpson and Jones",1474,2012-05-05,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2830,Operational
+"Smith, Montes and Garcia","6002 Calvin Plain
+South Angela, WV 23945",Sanchez Inc,914,2014-05-29,Boiling Water Reactor,Heavy Water Reactor,Thorium,1101,Decommissioned
+"Mcdonald, Palmer and Beltran","Unit 6359 Box 0506
+DPO AE 22424",Cunningham-Brown,976,1998-11-02,Boiling Water Reactor,Heavy Water Reactor,Thorium,2525,Decommissioned
+"Wilson, Soto and Christian","125 Abigail Canyon
+Cameronview, MN 45401",Horn-Bradford,1610,2020-10-16,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1372,Operational
+"Perez, Gomez and Johnston","667 Misty Spur Apt. 960
+Samanthafurt, DC 26307","Morgan, Brown and Bishop",1465,2018-08-27,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4331,Operational
+"Lee, Bass and Bowman","9447 Zachary Mill
+South Chloe, AZ 94144","Rodriguez, Davis and Riley",909,2005-08-24,Boiling Water Reactor,Gas-cooled Reactor,Uranium,4321,Operational
+Robinson LLC,"64629 Howell Underpass
+Vazquezstad, VT 30333",Friedman-Ortiz,1196,2011-04-02,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3698,Under Construction
+Fisher-Obrien,"83157 Shane Mills Suite 278
+New Taylor, MO 88353",Mann PLC,965,2014-11-02,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4211,Operational
+Mooney Ltd,"74648 James Trail Suite 209
+Port Krystal, SD 34983",Soto-Miller,1559,2007-02-21,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3362,Decommissioned
+"Wise, Davenport and Hall","697 James Fall Suite 921
+East Samantha, AK 96429","Camacho, Ramirez and Moreno",1546,2008-08-07,Boiling Water Reactor,Heavy Water Reactor,Thorium,4548,Operational
+Gibson and Sons,"117 Patrick Landing Apt. 514
+Katrinaside, CT 26373",Reyes PLC,802,2022-04-30,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2407,Operational
+"Harris, Williams and Cook","Unit 1086 Box 0474
+DPO AP 48305",Stewart-Poole,937,2010-10-13,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4804,Under Construction
+"Bailey, Reyes and Smith","Unit 4676 Box 2867
+DPO AE 38586","Martinez, Horton and Price",1014,2022-04-03,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1467,Under Construction
+Rogers-Bradshaw,"71589 Marco Branch Apt. 031
+New Ericton, ME 86346",Jackson LLC,1405,2009-08-24,Boiling Water Reactor,Heavy Water Reactor,Uranium,4547,Operational
+"Harrell, Pierce and Silva","6518 Matthew Stream Apt. 526
+Dixonland, MP 45756",Baker and Sons,1178,2009-04-30,Fast Breeder Reactor,Light Water Reactor,Thorium,1858,Under Construction
+"Brock, Hernandez and Thomas","PSC 3775, Box 8175
+APO AE 88929",Anderson Group,1783,2002-01-29,Fast Breeder Reactor,Light Water Reactor,Uranium,1094,Operational
+"Stephens, Brooks and Cook","72956 Brandon Tunnel Suite 660
+South Christopher, IN 40273","Crawford, Harris and Stephenson",1692,2013-08-05,Pressurized Water Reactor,Light Water Reactor,Plutonium,1267,Operational
+Davis Inc,"31262 Simmons Road Suite 654
+Jessicaville, MT 44680",Lawson and Sons,1488,2000-10-03,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,3853,Decommissioned
+Campbell-Myers,"59883 Robert Heights Apt. 670
+South Tyler, AS 34100",King-Mitchell,1277,1994-07-26,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1063,Operational
+Hall PLC,"PSC 9825, Box 1834
+APO AP 20794",Johnson Inc,785,1996-06-20,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4654,Operational
+Lynch Inc,"467 Pacheco Drive
+Stricklandchester, DC 38524",Morgan LLC,835,2006-01-31,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3604,Operational
+Robertson Ltd,"4975 Austin Vista Apt. 620
+North Lindsey, VT 62160","Estrada, Johnson and Thompson",511,2001-05-16,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4568,Decommissioned
+"Miller, Miller and Huynh","682 Jones Orchard
+Kevinburgh, PR 50482",Smith LLC,1961,2013-12-01,Fast Breeder Reactor,Light Water Reactor,Uranium,3073,Under Construction
+Stuart Group,"9200 Rivers Stream
+Kristinaside, AR 52974","Galloway, Kelly and Craig",1542,2017-11-22,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4736,Operational
+Young Inc,"3759 Fernandez Junctions
+Robertbury, AL 79921","Herrera, Hahn and Coleman",1667,2013-02-22,Boiling Water Reactor,Light Water Reactor,Plutonium,4853,Under Construction
+Dean Ltd,"60145 Dyer Walk Suite 870
+New Crystal, KS 62675",Pearson and Sons,561,2002-10-25,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1980,Operational
+"Hernandez, Kelly and Young","39399 Timothy Route Suite 685
+Alexanderborough, WY 01805",Weber-Brown,1869,2000-09-03,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3364,Decommissioned
+Ingram-Simpson,"758 Duncan Drive Suite 571
+Lake Stephenhaven, TX 66770",Stephens PLC,853,2020-06-06,Fast Breeder Reactor,Light Water Reactor,Plutonium,1379,Operational
+Perez-Kramer,"609 Quinn Burgs
+East Tanya, NH 32710",Williams and Sons,1196,2021-12-03,Boiling Water Reactor,Light Water Reactor,Plutonium,2170,Operational
+Warren PLC,"Unit 8741 Box 5358
+DPO AP 24507",Walls-Paul,1357,2010-03-05,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3388,Operational
+"Clements, Cooper and Patterson","512 Dylan Terrace
+Thomasburgh, VT 78988",Lee-Webb,1382,2014-03-22,Boiling Water Reactor,Light Water Reactor,Thorium,1456,Operational
+Clark Ltd,"52135 Anderson Curve Apt. 074
+Olsonfurt, NM 46812",Barnett Group,1880,2000-06-12,Fast Breeder Reactor,Heavy Water Reactor,Thorium,3720,Under Construction
+Smith-Sullivan,"4045 May Springs Suite 808
+Port Christianfurt, GU 34570","Bowen, Rogers and Henderson",1087,1995-08-17,Boiling Water Reactor,Heavy Water Reactor,Uranium,3771,Operational
+"Chaney, Johnson and Lara","249 Shelton Points
+South Jacobton, TX 73146","Baker, Smith and Garcia",1021,2022-04-05,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3423,Decommissioned
+"Huang, Hernandez and Golden","9538 Charles Landing
+Lake Katelynview, VI 40513",Wells-Mills,1022,2015-05-31,Fast Breeder Reactor,Light Water Reactor,Thorium,1570,Decommissioned
+Barnes-Matthews,"444 Alvarez Rapid
+Nathanville, VT 98538",Phillips Inc,1077,2008-02-21,Boiling Water Reactor,Heavy Water Reactor,Uranium,4140,Decommissioned
+Baker PLC,"3689 Jeffrey Keys Apt. 362
+New Aaron, MP 17834",White-Mejia,1146,2004-01-26,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,2813,Operational
+"Gardner, Mccoy and Stewart","835 Jacqueline Key Suite 839
+Codyfort, MT 69374","Thomas, Soto and Peck",1222,2014-09-06,Boiling Water Reactor,Heavy Water Reactor,Thorium,4438,Decommissioned
+"Mitchell, Drake and Ali","5809 Boyd Knolls
+Parkerview, MT 55101",Cooper PLC,1688,1997-05-12,Boiling Water Reactor,Heavy Water Reactor,Uranium,1458,Operational
+Ortega-Hughes,"9111 Brandy Trafficway
+Alanville, OR 74929",Herrera-Kelly,801,2011-04-10,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3845,Decommissioned
+Anderson and Sons,"404 Bruce Squares
+Heatherchester, MN 51149","Haynes, Simpson and Kennedy",1323,2000-07-28,Fast Breeder Reactor,Light Water Reactor,Plutonium,1599,Operational
+Hopkins LLC,"08838 Lynn Tunnel
+Blackburnshire, TX 37557","Dawson, Rodriguez and Weeks",1937,2006-11-25,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4127,Under Construction
+Myers Ltd,"PSC 9590, Box 5902
+APO AA 39932",Cooley Ltd,1304,2019-10-31,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4999,Under Construction
+Jones-Duncan,"2405 Hammond Fields
+Torresview, SD 80078",Decker-Gray,600,2017-10-25,Pressurized Water Reactor,Light Water Reactor,Plutonium,1356,Under Construction
+Gonzalez LLC,"37530 Tina Meadows
+Port Chelseachester, CO 26416","Higgins, Curry and Ruiz",1511,2006-09-10,Pressurized Water Reactor,Light Water Reactor,Plutonium,1416,Operational
+Matthews-Baker,"PSC 3740, Box 8399
+APO AP 64217",Hill-Gonzalez,1331,2009-12-31,Boiling Water Reactor,Heavy Water Reactor,Thorium,2278,Under Construction
+"Rodriguez, Sims and Smith","859 Davis Centers Suite 404
+Mariashire, NM 54999","Aguilar, Price and Townsend",1924,2015-08-21,Boiling Water Reactor,Heavy Water Reactor,Uranium,4588,Operational
+Perez Ltd,"USNV Brown
+FPO AP 09805",Frost LLC,989,2017-02-17,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1468,Operational
+Nguyen-Morris,"Unit 3473 Box 0261
+DPO AP 60912",Mueller and Sons,1470,1997-01-14,Boiling Water Reactor,Heavy Water Reactor,Thorium,1848,Under Construction
+Flores and Sons,"79789 Travis Overpass
+Port Josephtown, KY 32073",Francis LLC,1995,1999-10-14,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1574,Operational
+Deleon PLC,"USCGC Holt
+FPO AP 18548",Wells-Khan,1470,2017-06-05,Fast Breeder Reactor,Heavy Water Reactor,Thorium,1163,Under Construction
+"Allen, Bailey and Snyder","30514 Jeremy Wells Suite 260
+Port Cherylstad, IL 86717",Rice Ltd,1649,2002-02-02,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3545,Operational
+"Leonard, Harris and Lewis","73422 Laura Ridge
+Reeveshaven, ME 45860",Rivera-Harper,1158,2001-11-13,Boiling Water Reactor,Light Water Reactor,Plutonium,1319,Operational
+Henry-Benton,"67074 Shields Ridge
+Holtview, WY 03262",Bean-Mitchell,1468,1995-02-18,Pressurized Water Reactor,Light Water Reactor,Uranium,4269,Operational
+"Smith, Wheeler and Holland","9087 Samuel Estate Apt. 821
+Smithfort, NV 26961","Bradley, Garcia and Dunlap",1699,2021-05-05,Fast Breeder Reactor,Light Water Reactor,Thorium,1438,Decommissioned
+Mckinney PLC,"703 Melissa Trace
+Paultown, VT 38284",Johnson-Robles,1989,1995-09-15,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,4286,Under Construction
+"Jones, Harrison and Gonzalez","165 Mccullough Turnpike
+New Seantown, ND 81190",Flores PLC,747,2002-03-10,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,1386,Decommissioned
+White-Burton,"83452 Michael Mill
+Amandabury, WI 41855",Casey-Bryan,1244,2015-09-07,Fast Breeder Reactor,Heavy Water Reactor,Thorium,4373,Decommissioned
+Ryan Inc,"611 Armstrong Plains Apt. 621
+West Latoya, MA 46558",Leblanc-Roberts,1490,1997-03-11,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3375,Decommissioned
+Ellis Inc,"2199 Frost Brook
+Port Brittany, AK 74227","Mendoza, Johnson and Colon",1710,2014-04-24,Fast Breeder Reactor,Light Water Reactor,Thorium,2229,Operational
+King-Johnson,"769 Kevin Crescent Suite 106
+Marktown, ND 19070",Guerra Group,567,2013-08-14,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2743,Operational
+Evans LLC,"8859 Beard Hollow
+New Jennifer, DE 05536",Hernandez and Sons,520,2012-12-11,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3200,Operational
+"Davis, Maynard and Smith","07075 Robert Corners Suite 791
+North Joshua, CO 04111",Guerra-Dean,1521,2008-05-11,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2991,Operational
+Evans Inc,"89142 Foster Valleys Apt. 385
+East Leonardville, MT 58098",Garcia and Sons,1152,2003-07-23,Boiling Water Reactor,Heavy Water Reactor,Plutonium,2492,Operational
+Brown Group,"2665 Christina Lights
+South Dustin, MH 53564",Carter Inc,1091,2012-12-31,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2628,Operational
+"Mcconnell, Simon and Baker","10292 Brad Place
+Port Jenniferchester, MI 75344","Saunders, Watson and Lang",790,2019-03-16,Pressurized Water Reactor,Light Water Reactor,Thorium,3303,Operational
+"King, Johnson and Richards","1145 Fields Viaduct
+Andrewstad, TX 85622",Cabrera-Carpenter,581,2006-04-25,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3772,Decommissioned
+Olson-Walton,"095 Taylor Islands Suite 191
+West Dianeview, DE 91715",King and Sons,1107,2015-04-27,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2465,Under Construction
+Jones-Stephens,"88517 Burns Station
+Michaelton, TN 90545",Wade-Sanchez,1696,1994-03-22,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1011,Operational
+Pruitt Group,"516 Sims Cliff Suite 520
+West Nicole, WA 94260",Mullins Group,772,2014-12-19,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4730,Decommissioned
+Harris PLC,"673 Lee Trail Apt. 451
+Aaronton, MI 46531","Garrett, Wood and Garcia",599,2003-01-19,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2738,Operational
+"Curtis, Liu and Elliott","6839 Benjamin Cliffs
+North Sylvia, MO 18809",Andrews and Sons,840,1996-11-11,Boiling Water Reactor,Light Water Reactor,Uranium,3225,Operational
+Zimmerman-Simmons,"285 Perkins Valleys Suite 272
+Dawnfort, IA 93176",Johnson-Alvarado,1327,2017-12-31,Boiling Water Reactor,Light Water Reactor,Uranium,1249,Under Construction
+Fitzgerald-Brown,"13624 Ronald Landing
+East Maria, UT 31390",Nichols Inc,874,2017-09-29,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3569,Decommissioned
+Morris-Davis,"433 Amanda Via Apt. 317
+Donaldfurt, IN 28301",Curtis-Greene,869,1997-06-23,Fast Breeder Reactor,Light Water Reactor,Plutonium,1154,Under Construction
+"Little, Thompson and Allen","626 Shannon Lights
+Kaylamouth, OK 18238","Allen, Thomas and Vazquez",610,2015-07-10,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,1402,Operational
+Mckenzie-Lyons,"609 Kristen Knolls
+Wrightland, TX 63526",Ramirez Group,1152,2008-02-25,Boiling Water Reactor,Light Water Reactor,Uranium,4634,Operational
+"Solomon, Chavez and Martin","24382 Jesus Mill
+Ayalafurt, CO 96069",Davis-Jackson,723,2022-11-18,Boiling Water Reactor,Light Water Reactor,Uranium,1913,Under Construction
+Wilkerson Ltd,"972 Karen Mount Apt. 573
+Gabrielaside, ND 33878",Brown PLC,1362,2023-12-11,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4620,Decommissioned
+"Burns, Murphy and Simpson","7017 Richard Port Apt. 887
+Karenmouth, SC 75293",Bass-Simon,1181,2005-05-22,Fast Breeder Reactor,Heavy Water Reactor,Uranium,4418,Decommissioned
+Nguyen-Allen,"488 Conrad Plaza Apt. 109
+Port Jessica, MP 03020",Sanchez-Donovan,690,2023-12-23,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2967,Operational
+"Wagner, Jones and Hays","564 Smith Turnpike Suite 602
+Shannonport, VT 37082","Casey, Stevens and Byrd",1901,2021-11-29,Boiling Water Reactor,Light Water Reactor,Thorium,4081,Operational
+"Mata, Baker and Molina","2480 Stephanie Burg Suite 982
+Harmonview, TN 39877",Khan-Harvey,955,2020-03-14,Pressurized Water Reactor,Light Water Reactor,Thorium,2467,Operational
+Wood-Fleming,"987 Crane Plaza
+New Jamesbury, NJ 21590","Chang, Maxwell and Cook",784,2009-09-19,Boiling Water Reactor,Heavy Water Reactor,Thorium,4098,Under Construction
+"Wilson, Roberts and Sullivan","1562 Bell Track
+Jasonton, VA 02870",Oneal and Sons,1094,1995-12-15,Fast Breeder Reactor,Light Water Reactor,Thorium,1878,Decommissioned
+Gomez-Gilbert,"153 Nicholas Rue
+Barnettside, OK 22120",Scott-Mckay,553,2004-03-07,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1719,Under Construction
+Luna-Cooper,"445 Angela Flats Apt. 114
+Marialand, NC 01825",Gardner LLC,627,2020-09-24,Fast Breeder Reactor,Light Water Reactor,Plutonium,2459,Under Construction
+"Dawson, Smith and Hartman","541 Rivera Groves Suite 932
+Craigberg, WA 55158","May, Owens and Oliver",1922,2007-11-09,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3019,Decommissioned
+Miller-Sanchez,"6261 Chen Oval Suite 303
+New Laurie, NC 13979",Thomas-Butler,1648,2019-06-18,Pressurized Water Reactor,Heavy Water Reactor,Uranium,3358,Operational
+"Brown, Palmer and Wade","1900 Carter Glen
+East Michaelstad, DE 99120",Burgess-Russell,674,2008-07-25,Boiling Water Reactor,Light Water Reactor,Thorium,3257,Decommissioned
+Castro-Pacheco,"9226 Jacob Ridge
+South Jessica, PA 95760","Bridges, Thomas and Barajas",743,2005-06-01,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1945,Decommissioned
+Randall-Carpenter,"905 Perry Ports Suite 488
+Hannahside, GA 72981",Ramirez PLC,1972,1996-04-25,Boiling Water Reactor,Gas-cooled Reactor,Uranium,4381,Decommissioned
+"Blankenship, Mcgrath and Smith","643 Barbara Stream Suite 932
+Millershire, MS 68913",Gonzalez-Bolton,1728,2009-11-01,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2336,Decommissioned
+"Manning, Bird and Deleon","90572 Angela Pass
+Galvanshire, NY 05396",Bird-Smith,848,1999-05-17,Boiling Water Reactor,Light Water Reactor,Uranium,4179,Operational
+Cervantes-King,"792 Ball Greens Apt. 136
+Port Tonyshire, NE 51776",Rodriguez PLC,1946,2020-02-25,Boiling Water Reactor,Gas-cooled Reactor,Thorium,3632,Operational
+Wallace-Alvarez,"1986 Lucero Vista
+North Christopher, NV 76733","Rogers, Guzman and Griffin",1651,1998-11-15,Boiling Water Reactor,Light Water Reactor,Uranium,4561,Under Construction
+"Wood, Lynch and Petty","75050 Johnson Harbors
+Shafferfurt, OR 13232","Fuller, Jacobson and Thompson",1218,2003-09-05,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4031,Under Construction
+Reilly Inc,"5362 Nicole Forge Suite 221
+Katherinechester, ND 33939",Ross Inc,1022,2013-11-09,Fast Breeder Reactor,Light Water Reactor,Uranium,2268,Decommissioned
+Moyer Inc,"PSC 0306, Box 9066
+APO AE 56562","Hansen, Bean and Padilla",1622,2002-07-04,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,1094,Under Construction
+Weaver-Reed,"860 James River Suite 402
+Cynthiachester, IL 20520","Pennington, Scott and Moore",1623,2001-08-23,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3047,Decommissioned
+"Jones, Nguyen and May","742 Maxwell River Apt. 209
+South Shawnborough, IL 72166",Griffin Group,1944,2002-10-08,Fast Breeder Reactor,Light Water Reactor,Uranium,4063,Under Construction
+Romero and Sons,"062 Cameron Lights Suite 984
+Port Pamelamouth, AZ 74191",Oliver Inc,964,2001-05-20,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,3930,Decommissioned
+Lewis Ltd,"336 Harris Shoals
+Payneborough, IA 78011","Nelson, Mccarty and Moore",1837,2005-11-26,Boiling Water Reactor,Heavy Water Reactor,Plutonium,3998,Operational
+Scott-Scott,"42405 Hines Isle Apt. 780
+New Alexander, WV 34074",Day-Ward,1095,2014-04-29,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,4397,Operational
+Atkinson-Silva,"654 Carpenter Isle
+North Kathy, AR 58274","Richardson, Chen and Ramirez",1623,1996-12-03,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1272,Decommissioned
+Reed-Garcia,"246 Harris Circle Apt. 157
+North Joshuamouth, MO 29995","Stevens, Hudson and Soto",649,2007-11-29,Pressurized Water Reactor,Light Water Reactor,Plutonium,2908,Decommissioned
+Schmitt-Murphy,"430 Charles Ville
+Smithton, NE 50835","Joseph, Palmer and Warren",793,2006-01-20,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4512,Decommissioned
+"Reynolds, Moreno and Johnson","100 Shelly Keys
+West Amanda, PW 60474","Rogers, Bailey and Underwood",1912,2000-12-30,Boiling Water Reactor,Light Water Reactor,Plutonium,2129,Operational
+Rose-Gonzalez,"59012 Sonya Neck
+West Eric, HI 93468","Davis, Lee and Phelps",1943,2018-01-12,Pressurized Water Reactor,Light Water Reactor,Plutonium,4635,Under Construction
+Mccarty PLC,"7727 Anderson Knolls
+Port Laura, WI 29738","Adams, Cruz and Carter",1101,2019-01-24,Boiling Water Reactor,Light Water Reactor,Thorium,4841,Operational
+"Harris, Johnson and Williams","69503 Stephanie Trail
+Liland, MS 70378",Maddox Ltd,817,2016-09-09,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,1091,Operational
+Pham-Nelson,"7194 Scott Mountains Suite 927
+Elizabethbury, TN 67747",Morris Inc,782,2014-12-18,Boiling Water Reactor,Light Water Reactor,Uranium,4461,Operational
+George-Hill,"298 Knight Pine Apt. 446
+Jenniferfurt, CT 10440",Stephens PLC,935,2012-06-28,Pressurized Water Reactor,Heavy Water Reactor,Uranium,1364,Under Construction
+Smith-Flores,"34898 Lawrence Islands
+West Martha, NV 17929",Walker-Rice,1303,2005-10-02,Pressurized Water Reactor,Light Water Reactor,Thorium,1853,Decommissioned
+Morales Group,"37681 Miller Spurs Apt. 830
+Lake Tammystad, TX 61056",Herrera and Sons,1863,2021-04-28,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,2235,Decommissioned
+Johnson Ltd,"Unit 8105 Box 2776
+DPO AE 84439",Conway-Wilson,1021,2022-01-24,Pressurized Water Reactor,Heavy Water Reactor,Plutonium,3007,Operational
+"Martinez, Lang and Martinez","668 Michelle Dam
+Sextonhaven, AK 39086",Graham-Mitchell,1498,2019-12-17,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,1623,Operational
+Sanford Ltd,"1508 Mckenzie Run Suite 680
+New Markfurt, AL 41157","Hooper, Johnson and Massey",772,2005-06-07,Boiling Water Reactor,Heavy Water Reactor,Thorium,4908,Decommissioned
+Gomez-Joseph,"PSC 9476, Box 0222
+APO AA 40930",Jones-Becker,1302,2001-12-23,Boiling Water Reactor,Gas-cooled Reactor,Thorium,4101,Decommissioned
+Richardson-Anthony,"77825 Medina Via
+Jenniferbury, OH 99527","Williams, Bates and Moore",759,2011-11-08,Fast Breeder Reactor,Light Water Reactor,Thorium,4593,Decommissioned
+Rodriguez LLC,"85236 Krista Ways Apt. 562
+Lauraville, AK 10537",Solomon PLC,994,2012-12-22,Boiling Water Reactor,Light Water Reactor,Uranium,2310,Under Construction
+Armstrong-Lyons,"897 Cathy Field Suite 034
+North Timothystad, CA 10667",Lee Inc,1545,2022-12-02,Boiling Water Reactor,Light Water Reactor,Thorium,2905,Under Construction
+"Ortiz, Jackson and Martin","83808 Robert Shoal
+Thomaschester, AZ 57850",Pena-Smith,1620,1995-05-21,Boiling Water Reactor,Heavy Water Reactor,Uranium,1889,Decommissioned
+Andersen-Clarke,"648 Monroe Crossing
+Watsonland, MS 95435",Thompson Inc,983,2009-01-16,Boiling Water Reactor,Light Water Reactor,Uranium,1045,Under Construction
+"Burke, Hartman and Vasquez","55728 Cross Squares Apt. 826
+West Jacob, MN 57995",Scott Ltd,845,1994-08-07,Boiling Water Reactor,Light Water Reactor,Plutonium,4038,Under Construction
+Pearson-Morgan,"638 Smith Forge Apt. 605
+West Tina, OH 41749",Wagner and Sons,686,2018-11-07,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,4698,Under Construction
+Turner PLC,"41568 Barber Rapids Suite 208
+East Micheleton, OK 03810","Orozco, Anderson and Ortiz",602,2002-06-15,Pressurized Water Reactor,Heavy Water Reactor,Thorium,2120,Decommissioned
+Anderson Inc,"Unit 1696 Box 4634
+DPO AA 55153","Baldwin, Jimenez and Bryant",1039,2003-06-01,Fast Breeder Reactor,Light Water Reactor,Thorium,4535,Decommissioned
+King Ltd,"086 Brandon Lights Apt. 546
+Amandafurt, PR 60139",Moss-Simmons,590,2018-02-14,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,4777,Decommissioned
+"Brown, Rios and Butler","6760 Miguel Brook Suite 766
+New Paulburgh, WV 85117",Rogers-Garcia,500,2021-12-30,Boiling Water Reactor,Light Water Reactor,Plutonium,4027,Operational
+"Mitchell, Rivera and Carroll","33117 Riley Shoal
+Williamborough, NM 28496",Ingram and Sons,1099,2023-02-23,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,3383,Under Construction
+Boyd and Sons,"12631 Franklin Fords
+Lake Josephberg, VI 18815",West-Lindsey,1905,2016-09-15,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4203,Under Construction
+Rose-Bell,"0694 Mitchell Plains Suite 247
+Justinland, ND 40223","Wong, Reynolds and Moore",1483,2011-12-11,Pressurized Water Reactor,Light Water Reactor,Thorium,1542,Under Construction
+Braun PLC,"97292 Garcia Ways Suite 848
+Parkerton, CT 21829",Hall LLC,1570,2018-09-26,Boiling Water Reactor,Light Water Reactor,Plutonium,3575,Operational
+Williams-Green,"PSC 0157, Box 9033
+APO AA 42379",Johnson LLC,1569,2006-06-06,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1337,Decommissioned
+Huang Group,"1672 Dawson Key Apt. 290
+Christopherburgh, DC 93116",Fox-Jones,1436,2017-02-10,Boiling Water Reactor,Light Water Reactor,Thorium,2869,Decommissioned
+Porter-Caldwell,"2135 Savannah Gateway Suite 206
+New Michaelfort, WA 13526",Huff LLC,1949,2003-07-17,Boiling Water Reactor,Light Water Reactor,Thorium,2242,Operational
+Hull-White,"Unit 3983 Box 1725
+DPO AA 77127",Beck PLC,1291,2020-07-15,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2841,Operational
+Faulkner Group,"6127 Alexander Fork Suite 730
+Lake Aaronshire, TX 47146","Barron, Cooper and Duke",937,2021-01-07,Boiling Water Reactor,Gas-cooled Reactor,Plutonium,1342,Operational
+Cooke-Mosley,"8920 Jeremy Dam Suite 587
+Port Johnshire, FM 06813","Daniels, Mason and Andrews",1496,2011-03-28,Boiling Water Reactor,Heavy Water Reactor,Uranium,2232,Operational
+Rollins-Clark,"46983 Gallegos Highway
+Shelbyborough, VA 17124",Hill-Kim,756,1997-08-01,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1133,Decommissioned
+Meadows LLC,"USS Skinner
+FPO AP 47378",Brown-Smith,1036,2011-01-22,Fast Breeder Reactor,Heavy Water Reactor,Uranium,1124,Operational
+Oneill PLC,"896 Valenzuela Island
+West Christopher, NC 17067",Bowman-Barajas,620,2006-04-17,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,1104,Decommissioned
+"Simmons, Murphy and Brown","966 Jones Burgs
+North Mistyfort, NV 23330",Wilson-Cunningham,819,2012-03-08,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,4385,Decommissioned
+"Ayers, Barber and Thomas","1451 Christine Mall
+Christopherview, IL 72752","Davis, Blake and Miller",1328,2003-05-10,Pressurized Water Reactor,Heavy Water Reactor,Uranium,2149,Decommissioned
+"Robertson, Snyder and Taylor","163 Tyler Run
+Lake Reginald, AS 56663","Jones, Martinez and White",1301,2016-09-19,Boiling Water Reactor,Heavy Water Reactor,Plutonium,1510,Decommissioned
+Keller-Conrad,"161 Bryant Courts Apt. 884
+Leonardton, ND 24979",Pena Group,1384,2018-08-30,Pressurized Water Reactor,Light Water Reactor,Plutonium,2940,Under Construction
+"Hobbs, Moore and Johnson","717 Acosta Harbor Suite 882
+West Jeffreymouth, OK 62356",Sanders-Moss,893,2010-05-21,Pressurized Water Reactor,Heavy Water Reactor,Thorium,1148,Operational
+Wright Ltd,"645 Vanessa Alley
+Johnsonport, NV 46294",Carter PLC,896,2023-12-31,Boiling Water Reactor,Light Water Reactor,Plutonium,2694,Decommissioned
+Avery PLC,"7903 Mark Spring Suite 644
+Ryanmouth, ME 37602","Lambert, Spears and Elliott",853,1999-12-16,Fast Breeder Reactor,Light Water Reactor,Thorium,1452,Decommissioned
+Maldonado PLC,"7849 Adams Place
+Smithville, AL 08288",Jones-Hurley,1121,2020-08-16,Pressurized Water Reactor,Heavy Water Reactor,Thorium,3351,Operational
+Whitehead-Cortez,"71340 Morris Freeway
+Chaseview, NM 75948",Nixon-Stanley,949,2013-09-10,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2839,Decommissioned
+"Webster, Odom and Gordon","5407 Laura Roads Suite 117
+Lake Jessica, LA 03000",Miller Ltd,1209,2007-06-28,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,2655,Operational
+Wilkins Ltd,"8771 Benjamin Fall Suite 100
+East Larry, OH 36605",Blanchard-Hayes,1591,2022-01-04,Boiling Water Reactor,Heavy Water Reactor,Thorium,2149,Under Construction
+Mcdonald PLC,"215 Stark Drive Apt. 104
+Dominiqueberg, OK 72071","Hernandez, Bennett and Rodriguez",1244,2008-07-14,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,4204,Decommissioned
+"Ford, Santos and Norris","87621 Richard Vista Suite 465
+New Anna, CA 53995",Jackson-Jackson,1620,2001-07-04,Pressurized Water Reactor,Light Water Reactor,Plutonium,3768,Under Construction
+Smith-Wong,"Unit 6533 Box 0400
+DPO AE 58993",Bass-Dyer,887,2021-03-03,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3292,Under Construction
+Nielsen Inc,"008 Paul Land Apt. 238
+Lake Katelyn, MS 97405",Hood Group,870,2016-01-15,Pressurized Water Reactor,Light Water Reactor,Uranium,4089,Decommissioned
+Thornton Ltd,"32095 Henry Vista Suite 205
+Port Lisaport, MD 33260",Reyes-Osborn,528,2019-03-31,Pressurized Water Reactor,Light Water Reactor,Plutonium,3632,Operational
+Mendoza-Schultz,"654 Maxwell Lodge
+Aguilartown, MD 68687","Escobar, Wall and Parker",540,2003-08-14,Boiling Water Reactor,Heavy Water Reactor,Uranium,3016,Decommissioned
+Williams-Velez,"2437 Jonathan Trafficway
+Kelseychester, NE 73864",Hill Ltd,1346,2003-07-14,Pressurized Water Reactor,Gas-cooled Reactor,Uranium,3953,Decommissioned
+"Skinner, Rose and King","USCGC Carter
+FPO AP 99503",Ross-Rice,1750,2001-03-21,Pressurized Water Reactor,Gas-cooled Reactor,Plutonium,4511,Operational
+Herrera-Kennedy,"235 Keith Trace Suite 624
+Barryburgh, PR 60752",Huerta-Carter,1672,2020-10-03,Boiling Water Reactor,Gas-cooled Reactor,Uranium,1062,Decommissioned
+Potts PLC,"16141 George Mountains
+Susanside, NM 35221","Murphy, Cordova and Webb",1474,1995-07-18,Boiling Water Reactor,Heavy Water Reactor,Plutonium,4897,Under Construction
+Gomez-Anderson,"3318 Martin Island Apt. 778
+Desireemouth, VT 13436",Carroll and Sons,1853,2003-07-17,Fast Breeder Reactor,Light Water Reactor,Thorium,1431,Decommissioned
+Welch LLC,"62195 Tara Walks
+North Davidburgh, DC 24869","Mcmahon, Archer and Barajas",1844,2005-04-18,Boiling Water Reactor,Gas-cooled Reactor,Thorium,1703,Under Construction
+Simmons-Parker,"5607 Jessica Center
+Lake Jeffrey, AS 35306","Rowe, Bradley and Fischer",641,2006-02-04,Pressurized Water Reactor,Light Water Reactor,Uranium,4341,Decommissioned
+Torres Inc,"25799 Brent Mills Suite 537
+East Darlene, ID 33451",Franklin-Santos,1145,2019-12-12,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,2898,Decommissioned
+Morgan-Johnson,"6612 Danielle Pike Suite 376
+Fordmouth, PR 71212",Perez Inc,687,2010-08-14,Fast Breeder Reactor,Light Water Reactor,Thorium,4060,Decommissioned
+"Murillo, Jackson and Green","82347 Williams Vista
+South Amanda, SC 81842",Roberts Group,1702,2002-05-31,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,2222,Operational
+Robinson and Sons,"583 Daniel Village Apt. 137
+Lake Ryanburgh, MP 87257","Gutierrez, Allen and Jones",775,1997-04-08,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,1786,Operational
+"Cook, Gibbs and Pineda","0049 Grant Coves
+Pennyton, MA 67897",Parks-Clay,1112,2023-06-19,Boiling Water Reactor,Heavy Water Reactor,Uranium,3712,Under Construction
+Sanchez Inc,"15444 Murphy Rapid
+Lynnbury, SD 96254",Pierce and Sons,1249,1998-02-22,Boiling Water Reactor,Gas-cooled Reactor,Uranium,2992,Under Construction
+"Stephens, Williams and Warren","32655 Tyler Station
+South Alyssa, WI 19925",Wright-Smith,1615,2018-01-04,Pressurized Water Reactor,Light Water Reactor,Thorium,1467,Operational
+Green-Morris,"9133 Stein Roads
+East Nancy, ID 13777",Snyder Group,1773,2012-08-03,Boiling Water Reactor,Gas-cooled Reactor,Thorium,2171,Decommissioned
+"Jenkins, Gibson and Vasquez","Unit 3147 Box 1518
+DPO AP 52946",Carroll Group,1266,2008-06-27,Pressurized Water Reactor,Heavy Water Reactor,Thorium,4785,Operational
+Rodriguez and Sons,"08393 Nathan Trail Apt. 984
+West Carolyn, KY 62344","Casey, Fisher and Krueger",652,2016-12-28,Fast Breeder Reactor,Gas-cooled Reactor,Thorium,3563,Decommissioned
+"West, Johnson and Smith","46540 Gary Branch Apt. 510
+Sandrabury, OR 49718",Gonzales Ltd,917,2006-03-08,Fast Breeder Reactor,Heavy Water Reactor,Plutonium,2681,Operational
+Sanders-Peterson,"322 Samantha Cape Apt. 561
+East Sandy, MD 08343",Ingram Ltd,1354,2005-01-30,Fast Breeder Reactor,Gas-cooled Reactor,Plutonium,4500,Operational
+Campbell Group,"5062 Amanda Mountain Apt. 487
+Lake Andrewland, GA 27645",Kim Ltd,739,2023-09-26,Boiling Water Reactor,Light Water Reactor,Thorium,4677,Under Construction
+Duran and Sons,"03266 Duane Wells
+Bethanyport, IN 86758","White, Allen and Brown",1049,2018-12-10,Pressurized Water Reactor,Heavy Water Reactor,Uranium,4730,Under Construction
+"Benjamin, Lewis and Wood","06999 Ramirez Springs
+Morenobury, KS 65617","Perez, Ashley and Ortiz",1596,1996-07-30,Fast Breeder Reactor,Gas-cooled Reactor,Uranium,1137,Decommissioned
+Harrison PLC,"1996 Sarah Highway
+East Todd, WA 32015",Zimmerman LLC,1810,2001-03-10,Boiling Water Reactor,Light Water Reactor,Plutonium,4452,Decommissioned
+Bowers-Davis,"721 Reyes Streets
+New Sarah, NC 82815",Sullivan-Rodriguez,612,2018-03-06,Fast Breeder Reactor,Heavy Water Reactor,Uranium,3996,Decommissioned
+Wheeler-Harvey,"094 Melanie Junction
+North Eric, OH 87000",Martinez-Maldonado,944,2023-01-03,Pressurized Water Reactor,Gas-cooled Reactor,Thorium,3848,Decommissioned
